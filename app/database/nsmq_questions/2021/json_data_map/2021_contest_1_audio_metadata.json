@@ -1,0 +1,405 @@
+{
+    "Round 1_question_0": {
+        "preamble_text": "Distinguish between reptiles and amphibians with respect to the following.",
+        "answer_text": "The respiratory organs in Amphibians are gills, skin, and lungs, whereas reptiles have only lungs",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_0.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_0.wav"
+    },
+    "Round 1_question_1": {
+        "preamble_text": "Distinguish between reptiles and amphibians with respect to the following.",
+        "answer_text": "Amphibians are oviparous organisms, whereas reptiles can be oviparous or viviparous",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_1.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_1.wav"
+    },
+    "Round 1_question_2": {
+        "preamble_text": "Distinguish between reptiles and amphibians with respect to the following.",
+        "answer_text": "Amphibians exhibit external mode of fertilization, whereas reptiles exhibit internal mode of fertilization",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_2.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_2.wav"
+    },
+    "Round 1_question_3": {
+        "preamble_text": "Describe chordates with respect to the following.",
+        "answer_text": "They are either cold or warm-blooded organisms",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_3.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_3.wav"
+    },
+    "Round 1_question_4": {
+        "preamble_text": "Describe chordates with respect to the following.",
+        "answer_text": "Have a closed vascular system",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_4.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_4.wav"
+    },
+    "Round 1_question_5": {
+        "preamble_text": "Describe chordates with respect to the following.",
+        "answer_text": "Triploblastic",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_5.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_5.wav"
+    },
+    "Round 1_question_6": {
+        "preamble_text": "Find the values of the constants b and b if the straight lines",
+        "answer_text": "two a minus five equals three, two a equals eight, a equals four, eight minus b equals one, b equals seven\ntwo a minus five equals three, two a equals eight, a equals four, eight minus b equals one, b equals seven",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_6.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_6.wav"
+    },
+    "Round 1_question_7": {
+        "preamble_text": "Find the values of the constants b and b if the straight lines",
+        "answer_text": "six minus two a equals four, two a equals two, a equals one, two b plus ten equals six, two b equals negative four, b equals negative two six minus two a equals four, two a equals two, a equals one, two b plus ten equals six, two b equals negative four, b equals negative two",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_7.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_7.wav"
+    },
+    "Round 1_question_8": {
+        "preamble_text": "Find the values of the constants b and b if the straight lines",
+        "answer_text": "a plus four equals negative three, a equals negative seven, two plus two b equals six, two b equals four, b equals two\na plus four equals negative three, a equals negative seven, two plus two b equals six, two b equals four, b equals two",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_8.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_8.wav"
+    },
+    "Round 1_question_9": {
+        "preamble_text": "Solve for A if the determinant of the matrix A has the given value.",
+        "answer_text": "two x squared minus three x minus five equals zero, two x squared minus five x plus two x minus five equals x plus one times two x minus five equals zero, x equals five halves, negative one\ntwo x squared minus three x minus five equals zero, two x squared minus five x plus two x minus five equals x plus one times two x minus five equals zero, x equals five halves, negative one",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_9.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_9.wav"
+    },
+    "Round 1_question_10": {
+        "preamble_text": "Solve for A if the determinant of the matrix A has the given value.",
+        "answer_text": "six x squared minus x minus seven equals zero, six x squared minus seven x plus six x minus seven equals x plus one times six x minus seven equals zero, x equals seven sixths, negative one\nsix x squared minus x minus seven equals zero, six x squared minus seven x plus six x minus seven equals x plus one times six x minus seven equals zero, x equals seven sixths, negative one",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_10.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_10.wav"
+    },
+    "Round 1_question_11": {
+        "preamble_text": "Solve for A if the determinant of the matrix A has the given value.",
+        "answer_text": "fifteen x squared minus two x minus 1 equals three x minus 1, five x plus one equals zero, x equals 1 over 3, x equals minus one over five\nfifteen x squared minus two x minus 1 equals three x minus 1, five x plus one equals zero, x equals 1 over 3, x equals minus one over five",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_11.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_11.wav"
+    },
+    "Round 1_question_12": {
+        "preamble_text": "A uniform meter stick of negligible mass is balanced on a knife edge with two masses placed at various positions on the meter stick.",
+        "answer_text": "forty two cm",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_12.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_12.wav"
+    },
+    "Round 1_question_13": {
+        "preamble_text": "A uniform meter stick of negligible mass is balanced on a knife edge with two masses placed at various positions on the meter stick.",
+        "answer_text": "fifty cm",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_13.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_13.wav"
+    },
+    "Round 1_question_14": {
+        "preamble_text": "A uniform meter stick of negligible mass is balanced on a knife edge with two masses placed at various positions on the meter stick.",
+        "answer_text": "forty eight cm",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_14.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_14.wav"
+    },
+    "Round 1_question_15": {
+        "preamble_text": null,
+        "answer_text": "0.25",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_15.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_15.wav"
+    },
+    "Round 1_question_16": {
+        "preamble_text": null,
+        "answer_text": "0.20",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_16.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_16.wav"
+    },
+    "Round 1_question_17": {
+        "preamble_text": null,
+        "answer_text": "2.0",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_17.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_17.wav"
+    },
+    "Round 1_question_18": {
+        "preamble_text": "Consider the following elements, listed not in any particular order.\nBeryllium, Argon, Silicon, and Sodium.",
+        "answer_text": "Sodium",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_18.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_18.wav"
+    },
+    "Round 1_question_19": {
+        "preamble_text": "Consider the following elements, listed not in any particular order.\nBeryllium, Argon, Silicon, and Sodium.",
+        "answer_text": "Argon",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_19.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_19.wav"
+    },
+    "Round 1_question_20": {
+        "preamble_text": "Consider the following elements, listed not in any particular order.\nBeryllium, Argon, Silicon, and Sodium.",
+        "answer_text": "Silicon",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_20.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_20.wav"
+    },
+    "Round 1_question_21": {
+        "preamble_text": "In the commercial preparation of trioxonitrate(V) acid, nitrogen(IV) oxide dissolves in water to give the acid while nitrogen(II) oxide is evolved. The balanced equation for the reaction is as follows:\ntwenty two point four dm cubed.\ntwenty two point four dm cubed The molar volume of a gas at STP is twenty two point four dm cubed.",
+        "answer_text": "sixty nine point zero divided by one hundred thirty eight times one hundred twenty six g equals sixty three point zero g.\nsixty nine point zero divided by one hundred thirty eight times one hundred twenty six g equals sixty three point zero g\nsixty nine point zero divided by one hundred thirty eight times one hundred twenty six g equals sixty three point zero g of sixty nine point zero divided by one hundred thirty eight times one hundred twenty six g equals sixty three point zero g of sixty nine point zero divided by one hundred thirty eight times one hundred twenty six g equals sixty three point zero g\nTherefore, mass of sixty nine point zero divided by one hundred thirty eight times one hundred twenty six g equals sixty three point zero g to be produced from sixty nine point zero divided by one hundred thirty eight times one hundred twenty six g equals sixty three point zero g of NOsixty nine point zero divided by one hundred thirty eight times one hundred twenty six g equals sixty three point zero g sixty nine point zero divided by one hundred thirty eight times one hundred twenty six g equals sixty three point zero g",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_21.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_21.wav"
+    },
+    "Round 1_question_22": {
+        "preamble_text": "In the commercial preparation of trioxonitrate(V) acid, nitrogen(IV) oxide dissolves in water to give the acid while nitrogen(II) oxide is evolved. The balanced equation for the reaction is as follows:\ntwenty two point four dm cubed.\ntwenty two point four dm cubed The molar volume of a gas at STP is twenty two point four dm cubed.",
+        "answer_text": "one hundred one dm cubed.\nMoles of one hundred one dm cubed in one hundred one dm cubed of it. one hundred one dm cubed\nMoles of one hundred one dm cubed needed one hundred one dm cubed.\nHence volume of one hundred one dm cubed at STP required one hundred one dm cubed\none hundred one dm cubed",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_22.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_22.wav"
+    },
+    "Round 1_question_23": {
+        "preamble_text": "In the commercial preparation of trioxonitrate(V) acid, nitrogen(IV) oxide dissolves in water to give the acid while nitrogen(II) oxide is evolved. The balanced equation for the reaction is as follows:\ntwenty two point four dm cubed.\ntwenty two point four dm cubed The molar volume of a gas at STP is twenty two point four dm cubed.",
+        "answer_text": "quad equals two divided by three times eighteen point zero equals twelve point zero g.\nMoles of quad equals two divided by three times eighteen point zero equals twelve point zero g in quad equals two divided by three times eighteen point zero equals twelve point zero g of the gas at STP quad equals two divided by three times eighteen point zero equals twelve point zero g\nMoles of water required quad equals two divided by three times eighteen point zero equals twelve point zero g\nMass of water quad equals two divided by three times eighteen point zero equals twelve point zero g",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 1_question_23.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 1_answer_23.wav"
+    },
+    "Round 2_question_0": {
+        "preamble_text": null,
+        "answer_text": "open parenthesis a plus b close parenthesis to the fourth power",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 2_question_0.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 2_answer_0.wav"
+    },
+    "Round 2_question_1": {
+        "preamble_text": null,
+        "answer_text": "120\nopen bracket five factorial equals five times four times three times two times one equals twenty times six equals one hundred twenty close bracket",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 2_question_1.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 2_answer_1.wav"
+    },
+    "Round 2_question_2": {
+        "preamble_text": null,
+        "answer_text": "open parenthesis two comma sixteen close parenthesis close bracket\nopen parenthesis two comma sixteen close parenthesis close bracket, open parenthesis two comma sixteen close parenthesis close bracket",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 2_question_2.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 2_answer_2.wav"
+    },
+    "Round 2_question_3": {
+        "preamble_text": null,
+        "answer_text": "Two sets of sister chromatids (Don't accept four chromatids)",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 2_question_3.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 2_answer_3.wav"
+    },
+    "Round 2_question_4": {
+        "preamble_text": null,
+        "answer_text": "Lithotrophs",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 2_question_4.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 2_answer_4.wav"
+    },
+    "Round 2_question_5": {
+        "preamble_text": null,
+        "answer_text": "A perfect flower is one in which both male and female reproductive structures are present. / Both androecium and gynoecium are located on the same flower",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 2_question_5.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 2_answer_5.wav"
+    },
+    "Round 2_question_6": {
+        "preamble_text": null,
+        "answer_text": "Sited at Tema so as to receive imported alumina through the Tema harbour and also having electricity supply from Akosombo.",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 2_question_6.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 2_answer_6.wav"
+    },
+    "Round 2_question_7": {
+        "preamble_text": null,
+        "answer_text": "Al three plus ions in the aqueous solution will be discharged at the cathode in preference to the Al three plus ions Al three plus the reduction potential of Al three plus ions is higher than that of Al three plus.",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 2_question_7.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 2_answer_7.wav"
+    },
+    "Round 2_question_8": {
+        "preamble_text": null,
+        "answer_text": "pH equals fourteen point zero minus five point ten equals eight point ninety of the conjugate base pH equals fourteen point zero minus five point ten equals eight point ninety\npH equals fourteen point zero minus five point ten equals eight point ninety",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 2_question_8.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 2_answer_8.wav"
+    },
+    "Round 2_question_9": {
+        "preamble_text": null,
+        "answer_text": "eight hundred kilojoules",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 2_question_9.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 2_answer_9.wav"
+    },
+    "Round 2_question_10": {
+        "preamble_text": null,
+        "answer_text": "eight Ohms",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 2_question_10.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 2_answer_10.wav"
+    },
+    "Round 2_question_11": {
+        "preamble_text": null,
+        "answer_text": "They move in the same direction as the incoming object",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 2_question_11.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 2_answer_11.wav"
+    },
+    "Round 3_question_0": {
+        "preamble_text": null,
+        "answer_text": "-Excess nitrate and phosphate discharged into river.\n-Aquatic algae grow rapidly.\n-Aquatic algae die.\n-Dead algae decomposed by bacteria.\n-Bacteria use up oxygen.\n-Water depleted of oxygen.\n-Fish die of suffocation.",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 3_question_0.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 3_answer_0.wav"
+    },
+    "Round 3_question_1": {
+        "preamble_text": null,
+        "answer_text": "Eutrophication",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 3_question_1.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 3_answer_1.wav"
+    },
+    "Round 3_question_2": {
+        "preamble_text": null,
+        "answer_text": "-Anthropogenic eutrophication\n-Natural eutrophication",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 3_question_2.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 3_answer_2.wav"
+    },
+    "Round 4_question_0": {
+        "preamble_text": null,
+        "answer_text": "T.   (It is more pronounced in non-polar solvents.)",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_0.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_0.wav"
+    },
+    "Round 4_question_1": {
+        "preamble_text": null,
+        "answer_text": "F. (In the vapour phase there is extensive dimerization)",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_1.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_1.wav"
+    },
+    "Round 4_question_2": {
+        "preamble_text": null,
+        "answer_text": "T.",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_2.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_2.wav"
+    },
+    "Round 4_question_3": {
+        "preamble_text": null,
+        "answer_text": "F.",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_3.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_3.wav"
+    },
+    "Round 4_question_4": {
+        "preamble_text": null,
+        "answer_text": "F. It will increase it by a factor of 9 .",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_4.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_4.wav"
+    },
+    "Round 4_question_5": {
+        "preamble_text": null,
+        "answer_text": "T. (Heterogenous catalysis is a surface action.)",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_5.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_5.wav"
+    },
+    "Round 4_question_6": {
+        "preamble_text": null,
+        "answer_text": "FALSE",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_6.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_6.wav"
+    },
+    "Round 4_question_7": {
+        "preamble_text": null,
+        "answer_text": "FALSE",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_7.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_7.wav"
+    },
+    "Round 4_question_8": {
+        "preamble_text": null,
+        "answer_text": "FALSE",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_8.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_8.wav"
+    },
+    "Round 4_question_9": {
+        "preamble_text": null,
+        "answer_text": "FALSE",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_9.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_9.wav"
+    },
+    "Round 4_question_10": {
+        "preamble_text": null,
+        "answer_text": "FALSE",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_10.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_10.wav"
+    },
+    "Round 4_question_11": {
+        "preamble_text": null,
+        "answer_text": "FALSE",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_11.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_11.wav"
+    },
+    "Round 4_question_12": {
+        "preamble_text": null,
+        "answer_text": "True",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_12.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_12.wav"
+    },
+    "Round 4_question_13": {
+        "preamble_text": null,
+        "answer_text": "True",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_13.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_13.wav"
+    },
+    "Round 4_question_14": {
+        "preamble_text": null,
+        "answer_text": "True",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_14.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_14.wav"
+    },
+    "Round 4_question_15": {
+        "preamble_text": null,
+        "answer_text": "True",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_15.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_15.wav"
+    },
+    "Round 4_question_16": {
+        "preamble_text": null,
+        "answer_text": "False",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_16.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_16.wav"
+    },
+    "Round 4_question_17": {
+        "preamble_text": null,
+        "answer_text": "True",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_17.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_17.wav"
+    },
+    "Round 4_question_18": {
+        "preamble_text": "A three microfarads, a three microfarads, and a three microfarads capacitor are connected in series.",
+        "answer_text": "False",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_18.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_18.wav"
+    },
+    "Round 4_question_19": {
+        "preamble_text": "A three microfarads, a three microfarads, and a three microfarads capacitor are connected in series.",
+        "answer_text": "True",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_19.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_19.wav"
+    },
+    "Round 4_question_20": {
+        "preamble_text": "A three microfarads, a three microfarads, and a three microfarads capacitor are connected in series.",
+        "answer_text": "True",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_20.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_20.wav"
+    },
+    "Round 4_question_21": {
+        "preamble_text": null,
+        "answer_text": "False",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_21.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_21.wav"
+    },
+    "Round 4_question_22": {
+        "preamble_text": null,
+        "answer_text": "False",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_22.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_22.wav"
+    },
+    "Round 4_question_23": {
+        "preamble_text": null,
+        "answer_text": "False",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 4_question_23.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 4_answer_23.wav"
+    },
+    "Round 5_question_0": {
+        "preamble_text": null,
+        "answer_text": "Isobaric process",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 5_question_0.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 5_answer_0.wav"
+    },
+    "Round 5_question_1": {
+        "preamble_text": null,
+        "answer_text": "Endosperm",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 5_question_1.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 5_answer_1.wav"
+    },
+    "Round 5_question_2": {
+        "preamble_text": null,
+        "answer_text": "INFINITY",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 5_question_2.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 5_answer_2.wav"
+    },
+    "Round 5_question_3": {
+        "preamble_text": null,
+        "answer_text": "Covalent bond.",
+        "question_audio_file": "database/audio_data/questions_audio/2021_contest_1_Round 5_question_3.wav",
+        "answer_audio_file": "database/audio_data/answers_audio/2021_contest_1_Round 5_answer_3.wav"
+    }
+}
+
