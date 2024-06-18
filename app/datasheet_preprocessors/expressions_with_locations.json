@@ -1,0 +1,884 @@
+[
+    {
+        "expression": "20 \\mathrm{~g}",
+        "sheet": "Round 1",
+        "row": 2,
+        "column": "C",
+        "sentence": ""
+    },
+    {
+        "expression": "15 \\mathrm{~cm}",
+        "sheet": "Round 1",
+        "row": 2,
+        "column": "C",
+        "sentence": ""
+    },
+    {
+        "expression": "30 \\mathrm{~g}",
+        "sheet": "Round 1",
+        "row": 2,
+        "column": "C",
+        "sentence": ""
+    },
+    {
+        "expression": "60 \\mathrm{~cm}",
+        "sheet": "Round 1",
+        "row": 2,
+        "column": "C",
+        "sentence": ""
+    },
+    {
+        "expression": "42 \\mathrm{~cm}",
+        "sheet": "Round 1",
+        "row": 2,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\nx=\\left(m_{1} l_{1}+m_{2} l_{2}\\right) /\\left(m_{1}+m_{2}\\right)=(20 \\mathrm{~g} \\times 15 \\mathrm{~cm}+30 \\mathrm{~g} \\times 60 \\mathrm{~cm}) /(20 \\mathrm{~g}+30 \\mathrm{~g})=42 \\mathrm{~cm}\n",
+        "sheet": "Round 1",
+        "row": 2,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "20 \\mathrm{~g}",
+        "sheet": "Round 1",
+        "row": 3,
+        "column": "C",
+        "sentence": ""
+    },
+    {
+        "expression": "15 \\mathrm{~cm}",
+        "sheet": "Round 1",
+        "row": 3,
+        "column": "C",
+        "sentence": ""
+    },
+    {
+        "expression": "30 \\mathrm{~g}",
+        "sheet": "Round 1",
+        "row": 3,
+        "column": "C",
+        "sentence": ""
+    },
+    {
+        "expression": "60 \\mathrm{~cm}",
+        "sheet": "Round 1",
+        "row": 3,
+        "column": "C",
+        "sentence": ""
+    },
+    {
+        "expression": "20 \\mathrm{~g}",
+        "sheet": "Round 1",
+        "row": 3,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "10 \\mathrm{~cm}",
+        "sheet": "Round 1",
+        "row": 3,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "30 \\mathrm{~g}",
+        "sheet": "Round 1",
+        "row": 3,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "60 \\mathrm{~cm}",
+        "sheet": "Round 1",
+        "row": 3,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "40 \\mathrm{~cm}",
+        "sheet": "Round 1",
+        "row": 3,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\nx=\\left(m_{1} l_{1}+m_{2} l_{2}\\right) /\\left(m_{1}+m_{2}\\right)=(20 \\mathrm{~g} \\times 10 \\mathrm{~cm}+30 \\mathrm{~g} \\times 60 \\mathrm{~cm}) /(20 \\mathrm{~g}+30 \\mathrm{~g})=40 \\mathrm{~cm}\n",
+        "sheet": "Round 1",
+        "row": 3,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "20 \\mathrm{~g}",
+        "sheet": "Round 1",
+        "row": 4,
+        "column": "C",
+        "sentence": ""
+    },
+    {
+        "expression": "15 \\mathrm{~cm}",
+        "sheet": "Round 1",
+        "row": 4,
+        "column": "C",
+        "sentence": ""
+    },
+    {
+        "expression": "30 \\mathrm{~g}",
+        "sheet": "Round 1",
+        "row": 4,
+        "column": "C",
+        "sentence": ""
+    },
+    {
+        "expression": "60 \\mathrm{~cm}",
+        "sheet": "Round 1",
+        "row": 4,
+        "column": "C",
+        "sentence": ""
+    },
+    {
+        "expression": "30 \\mathrm{~g}",
+        "sheet": "Round 1",
+        "row": 4,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "75 \\mathrm{~cm}",
+        "sheet": "Round 1",
+        "row": 4,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "20 \\mathrm{~g}",
+        "sheet": "Round 1",
+        "row": 4,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "15 \\mathrm{~cm}",
+        "sheet": "Round 1",
+        "row": 4,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "51 \\mathrm{~cm}",
+        "sheet": "Round 1",
+        "row": 4,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\nx=\\left(m_{1} l_{1}+m_{2} l_{2}\\right) /\\left(m_{1}+m_{2}\\right)=(20 \\mathrm{~g} \\times 15 \\mathrm{~cm}+30 \\mathrm{~g} \\times 75 \\mathrm{~cm}) /(20 \\mathrm{~g}+30 \\mathrm{~g})=51 \\mathrm{~cm}\n",
+        "sheet": "Round 1",
+        "row": 4,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "30^{\\circ}",
+        "sheet": "Round 1",
+        "row": 5,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "19^{\\circ}",
+        "sheet": "Round 1",
+        "row": 5,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\n\\theta_{r}=\\left(\\sin \\theta_{i}\\right) / n=\\left[\\left(\\sin 30^{\\circ}\\right) / 1.53\\right]=19^{\\circ}\n",
+        "sheet": "Round 1",
+        "row": 5,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "30^{\\circ}",
+        "sheet": "Round 1",
+        "row": 6,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "18^{\\circ}",
+        "sheet": "Round 1",
+        "row": 6,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\n\\theta_{r}=\\left(\\sin \\theta_{i}\\right) / n=\\left[\\left(\\sin 30^{\\circ}\\right) / 1.62\\right]=18^{\\circ}\n",
+        "sheet": "Round 1",
+        "row": 6,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "30^{\\circ}",
+        "sheet": "Round 1",
+        "row": 7,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "12^{\\circ}",
+        "sheet": "Round 1",
+        "row": 7,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\n\\theta_{r}=\\left(\\sin \\theta_{i}\\right) / n=\\left[\\left(\\sin 30^{\\circ}\\right) / 2.45\\right]=12^{\\circ}\n",
+        "sheet": "Round 1",
+        "row": 7,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "1312 \\mathrm{kJmol}^{-1}",
+        "sheet": "Round 1",
+        "row": 8,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "520 \\mathrm{kJmol}^{-1}",
+        "sheet": "Round 1",
+        "row": 8,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "148 \\mathrm{kJmol}^{-1} ; \\quad \\mathrm{Na} \\quad 107 \\mathrm{kJmol}^{-1}",
+        "sheet": "Round 1",
+        "row": 9,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\\quad\\left(\\mathrm{S} \\quad-200 \\mathrm{kJmol}^{-1} ; 0 \\quad-141 \\mathrm{kJmol}^{-1}\\right.",
+        "sheet": "Round 1",
+        "row": 10,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\\mathrm{NaAl}(\\mathrm{OH})_{2} \\mathrm{CO}_{3}",
+        "sheet": "Round 1",
+        "row": 11,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "\\mathrm{Al}=27.0 ; \\mathrm{Na}=23.0 ; \\mathrm{O}=16.0 ; \\mathrm{C}=12.0 ; \\mathrm{H}=1.00",
+        "sheet": "Round 1",
+        "row": 11,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "\\operatorname{NaAl}(\\mathrm{OH})_{2} \\mathrm{CO}_{3}=\\quad 23.0+27.0+34.0+60.0=144",
+        "sheet": "Round 1",
+        "row": 11,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\\mathrm{Fe}_{4}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right]_{3}",
+        "sheet": "Round 1",
+        "row": 12,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "=56.0 ; \\mathrm{N}=14.0 ; \\mathrm{C}=12.0",
+        "sheet": "Round 1",
+        "row": 12,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "\\mathrm{Fe}_{4}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right]_{3}=4 * 56.0+[56.0+6 * 26]^{* 3}",
+        "sheet": "Round 1",
+        "row": 12,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\n=224+3[56.0+156]=860\n",
+        "sheet": "Round 1",
+        "row": 12,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\\mathrm{C}_{16} \\mathrm{H}_{13} \\mathrm{ClN}_{2} \\mathrm{O}",
+        "sheet": "Round 1",
+        "row": 13,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "\\mathrm{Cl}=35.5 ; \\mathrm{O}=16.0 ; \\mathrm{N}=14.0 ; \\mathrm{C}=12.0 ; \\quad \\mathrm{H}=1.00",
+        "sheet": "Round 1",
+        "row": 13,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "\\quad \\mathrm{C}_{16} \\mathrm{H}_{13} \\mathrm{ClN}_{2} \\mathrm{O}=(16 * 12.0)+13.0+35.5+28.0+16.0=284.5",
+        "sheet": "Round 1",
+        "row": 13,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\\operatorname{Lim}_{h \\rightarrow 0} \\frac{(h-5)^{2}-25}{h}",
+        "sheet": "Round 1",
+        "row": 14,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "\\left[\\left(h^{2}-10 h\\right) / h=h-10\\right.",
+        "sheet": "Round 1",
+        "row": 14,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "h",
+        "sheet": "Round 1",
+        "row": 14,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "]",
+        "sheet": "Round 1",
+        "row": 14,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\\operatorname{Lim}_{h \\rightarrow 0} \\frac{(2+h)^{2}-4}{h}",
+        "sheet": "Round 1",
+        "row": 15,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "\\left[\\left(4 h+h^{2}\\right) / h=4+h\\right.",
+        "sheet": "Round 1",
+        "row": 15,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "h",
+        "sheet": "Round 1",
+        "row": 15,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\\operatorname{Lim}_{h \\rightarrow 0} \\frac{(3-h)^{2}-9}{h}",
+        "sheet": "Round 1",
+        "row": 16,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "- 6",
+        "sheet": "Round 1",
+        "row": 16,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\\left[\\left(h^{2}-6 h\\right) / h=-6+h\\right.",
+        "sheet": "Round 1",
+        "row": 16,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "h",
+        "sheet": "Round 1",
+        "row": 16,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "]",
+        "sheet": "Round 1",
+        "row": 16,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "x^{2}",
+        "sheet": "Round 1",
+        "row": 17,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "x+3",
+        "sheet": "Round 1",
+        "row": 17,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "x-2",
+        "sheet": "Round 1",
+        "row": 17,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "\\left[x^{2}=(x+3)(x-2)=x^{2}+x-6, x-6=0, x=6\\right.",
+        "sheet": "Round 1",
+        "row": 17,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\\left.x^{2}=6^{2}=36\\right]",
+        "sheet": "Round 1",
+        "row": 17,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "x^{2}-10",
+        "sheet": "Round 1",
+        "row": 18,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "x",
+        "sheet": "Round 1",
+        "row": 18,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "x-2",
+        "sheet": "Round 1",
+        "row": 18,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "\\left[x^{2}-10=x(x-2)=x^{2}-2 x, 2 x=10, x=5\\right.",
+        "sheet": "Round 1",
+        "row": 18,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\\left.x^{2}-10=25-10=15\\right]",
+        "sheet": "Round 1",
+        "row": 18,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "2 x^{2}-34",
+        "sheet": "Round 1",
+        "row": 19,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "x+3",
+        "sheet": "Round 1",
+        "row": 19,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "x-3",
+        "sheet": "Round 1",
+        "row": 19,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "\\left[2 x^{2}-34=(x+3)(x-3)=x^{2}-9, x^{2}=34-9=25, x=5\\right.",
+        "sheet": "Round 1",
+        "row": 19,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\\left.=2 x^{2}-34=2(25)-34=50-34=16\\right]",
+        "sheet": "Round 1",
+        "row": 19,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "5.0 \\times 10^{-4} \\mathrm{~m}^{3}",
+        "sheet": "Round 2",
+        "row": 2,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "9.0 \\times 10^{-4} \\mathrm{H}",
+        "sheet": "Round 2",
+        "row": 2,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\nL=\\mu_{0} n^{2} V=4 \\pi \\times 10^{-7} H m^{-1} \\times\\left(1200 \\mathrm{~m}^{-1}\\right)^{2} \\times 5.0 \\times 10^{-4} \\mathrm{~m}^{3}=9.0 \\times 10^{-4} \\mathrm{H}\n",
+        "sheet": "Round 2",
+        "row": 2,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "200 \\mathrm{kPa}",
+        "sheet": "Round 2",
+        "row": 3,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "2 \\mathrm{~m}^{3}",
+        "sheet": "Round 2",
+        "row": 3,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "1 \\mathrm{~m}^{3}",
+        "sheet": "Round 2",
+        "row": 3,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "-200 k J",
+        "sheet": "Round 2",
+        "row": 3,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\nW=P \\Delta V=200 k P a \\times\\left(1 m^{3}-2 m^{3}\\right)=-200 k J\n",
+        "sheet": "Round 2",
+        "row": 3,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "5 \\mathrm{Nm}^{-1}",
+        "sheet": "Round 2",
+        "row": 4,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "4 N",
+        "sheet": "Round 2",
+        "row": 4,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "0.8 \\mathrm{~J}",
+        "sheet": "Round 2",
+        "row": 4,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\nU=F^{2} / 4 k=(4 N)^{2} /\\left(4 \\times 5 N m^{-1}\\right)=0.8 \\mathrm{~J}\n",
+        "sheet": "Round 2",
+        "row": 4,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "8 x^{-2 / 3}=2 / 9",
+        "sheet": "Round 2",
+        "row": 8,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "x=216",
+        "sheet": "Round 2",
+        "row": 8,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\\left[x^{-2 / 3}=1 / 36, x^{2 / 3}=36, x^{1 / 3}=6, x=6^{3}=216\\right]",
+        "sheet": "Round 2",
+        "row": 8,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "A",
+        "sheet": "Round 2",
+        "row": 9,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "B",
+        "sheet": "Round 2",
+        "row": 9,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "P(A)=1 / 3",
+        "sheet": "Round 2",
+        "row": 9,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "P(A \\cup B)=8 / 15",
+        "sheet": "Round 2",
+        "row": 9,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "P(B)",
+        "sheet": "Round 2",
+        "row": 9,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "1 / 5",
+        "sheet": "Round 2",
+        "row": 9,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "[P(A \\cup B)=P(A)+P(B), P(B)=8 / 15-1 / 3=(8-5) / 15=3 / 15=1 / 5]",
+        "sheet": "Round 2",
+        "row": 9,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\\mathbf{a}=-\\mathbf{6 i}+\\mathbf{8 j}",
+        "sheet": "Round 2",
+        "row": 10,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "(4 \\mathbf{i}+3 \\mathbf{j}) / 5",
+        "sheet": "Round 2",
+        "row": 10,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "-(4 \\mathbf{i}+3 \\mathbf{j}) / 5)",
+        "sheet": "Round 2",
+        "row": 10,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "[b=\\mathbf{8 i}+\\mathbf{6} \\mathbf{j}",
+        "sheet": "Round 2",
+        "row": 10,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "a",
+        "sheet": "Round 2",
+        "row": 10,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "(\\mathbf{8} \\mathbf{i}+\\mathbf{6 j}) / 10=(\\mathbf{4} \\mathbf{i}+\\mathbf{3 j}) / 5]",
+        "sheet": "Round 2",
+        "row": 10,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\\left[\\right.",
+        "sheet": "Round 4",
+        "row": 5,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\\left.\\mathrm{CaC}_{2}, \\quad \\mathrm{C} \\quad=\\quad-1\\right]",
+        "sheet": "Round 4",
+        "row": 5,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\\left[\\mathrm{H}_{2} \\mathrm{CO}, \\mathrm{C}=0 ; \\mathrm{HCOOH}, \\mathrm{C}=+2\\right]",
+        "sheet": "Round 4",
+        "row": 6,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\\left[\\mathrm{CH}_{3} \\mathrm{OH} \\equiv \\mathrm{CH}_{4} \\mathrm{O} \\quad\\right.",
+        "sheet": "Round 4",
+        "row": 7,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\\left.\\mathrm{C}=-2 ; \\quad \\mathrm{H}_{2} \\mathrm{CO} \\quad \\mathrm{C}=0\\right]",
+        "sheet": "Round 4",
+        "row": 7,
+        "column": "I",
+        "sentence": ""
+    },
+    {
+        "expression": "\\log _{a} b=1 / c",
+        "sheet": "Round 4",
+        "row": 14,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "b=a^{-c}",
+        "sheet": "Round 4",
+        "row": 14,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "3 \\log x+1=\\log 10 x^{3}",
+        "sheet": "Round 4",
+        "row": 15,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "\\log _{b} a=c",
+        "sheet": "Round 4",
+        "row": 16,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "a=b^{c}",
+        "sheet": "Round 4",
+        "row": 16,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "x+2 y=10",
+        "sheet": "Round 4",
+        "row": 17,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "2 x+y=5",
+        "sheet": "Round 4",
+        "row": 17,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "x+y=2",
+        "sheet": "Round 4",
+        "row": 18,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "y=5-x",
+        "sheet": "Round 4",
+        "row": 18,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "3 x+y=5",
+        "sheet": "Round 4",
+        "row": 19,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "x-3 y=5",
+        "sheet": "Round 4",
+        "row": 19,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "1 \\mathrm{~m}",
+        "sheet": "Round 4",
+        "row": 23,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "2 \\mathrm{~m}",
+        "sheet": "Round 4",
+        "row": 23,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "1 \\mathrm{~m}",
+        "sheet": "Round 4",
+        "row": 25,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "0.5 \\mathrm{~m}",
+        "sheet": "Round 4",
+        "row": 25,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "a^{x}=y",
+        "sheet": "Round 5",
+        "row": 4,
+        "column": "D",
+        "sentence": ""
+    },
+    {
+        "expression": "x=\\log _{a} y",
+        "sheet": "Round 5",
+        "row": 4,
+        "column": "D",
+        "sentence": ""
+    }
+]

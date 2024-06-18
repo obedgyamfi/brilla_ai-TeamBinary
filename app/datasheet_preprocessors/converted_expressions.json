@@ -1,0 +1,303 @@
+[
+   {
+       "expression": "20 \\mathrm{~g}",
+       "sheet": "Round 1",
+       "row": 2,
+       "column": "C",
+       "sentence": "20 grams"
+   },
+   {
+       "expression": "15 \\mathrm{~cm}",
+       "sheet": "Round 1",
+       "row": 2,
+       "column": "C",
+       "sentence": "15 centimeters"
+   },
+   {
+       "expression": "30 \\mathrm{~g}",
+       "sheet": "Round 1",
+       "row": 2,
+       "column": "C",
+       "sentence": "30 grams"
+   },
+   {
+       "expression": "60 \\mathrm{~cm}",
+       "sheet": "Round 1",
+       "row": 2,
+       "column": "C",
+       "sentence": "60 centimeters"
+   },
+   {
+       "expression": "42 \\mathrm{~cm}",
+       "sheet": "Round 1",
+       "row": 2,
+       "column": "I",
+       "sentence": "42 centimeters"
+   },
+   {
+       "expression": "\nx=\\left(m_{1} l_{1}+m_{2} l_{2}\\right) /\\left(m_{1}+m_{2}\\right)=(20 \\mathrm{~g} \\times 15 \\mathrm{~cm}+30 \\mathrm{~g} \\times 60 \\mathrm{~cm}) /(20 \\mathrm{~g}+30 \\mathrm{~g})=42 \\mathrm{~cm}\n",
+       "sheet": "Round 1",
+       "row": 2,
+       "column": "I",
+       "sentence": "x equals open parenthesis m 1 l 1 plus m 2 l 2 close parenthesis divided by open parenthesis m 1 plus m 2 close parenthesis equals open parenthesis 20 grams times 15 centimeters plus 30 grams times 60 centimeters close parenthesis divided by open parenthesis 20 grams plus 30 grams close parenthesis equals 42 centimeters"
+   },
+   {
+       "expression": "20 \\mathrm{~g}",
+       "sheet": "Round 1",
+       "row": 3,
+       "column": "C",
+       "sentence": "20 grams"
+   },
+   {
+       "expression": "15 \\mathrm{~cm}",
+       "sheet": "Round 1",
+       "row": 3,
+       "column": "C",
+       "sentence": "15 centimeters"
+   },
+   {
+       "expression": "30 \\mathrm{~g}",
+       "sheet": "Round 1",
+       "row": 3,
+       "column": "C",
+       "sentence": "30 grams"
+   },
+   {
+       "expression": "60 \\mathrm{~cm}",
+       "sheet": "Round 1",
+       "row": 3,
+       "column": "C",
+       "sentence": "60 centimeters"
+   },
+   {
+       "expression": "20 \\mathrm{~g}",
+       "sheet": "Round 1",
+       "row": 3,
+       "column": "D",
+       "sentence": "20 grams"
+   },
+   {
+       "expression": "10 \\mathrm{~cm}",
+       "sheet": "Round 1",
+       "row": 3,
+       "column": "D",
+       "sentence": "10 centimeters"
+   },
+   {
+       "expression": "30 \\mathrm{~g}",
+       "sheet": "Round 1",
+       "row": 3,
+       "column": "D",
+       "sentence": "30 grams"
+   },
+   {
+       "expression": "60 \\mathrm{~cm}",
+       "sheet": "Round 1",
+       "row": 3,
+       "column": "D",
+       "sentence": "60 centimeters"
+   },
+   {
+       "expression": "40 \\mathrm{~cm}",
+       "sheet": "Round 1",
+       "row": 3,
+       "column": "I",
+       "sentence": "40 centimeters"
+   },
+   {
+       "expression": "\nx=\\left(m_{1} l_{1}+m_{2} l_{2}\\right) /\\left(m_{1}+m_{2}\\right)=(20 \\mathrm{~g} \\times 10 \\mathrm{~cm}+30 \\mathrm{~g} \\times 60 \\mathrm{~cm}) /(20 \\mathrm{~g}+30 \\mathrm{~g})=40 \\mathrm{~cm}\n",
+       "sheet": "Round 1",
+       "row": 3,
+       "column": "I",
+       "sentence": "x equals open parenthesis m 1 l 1 plus m 2 l 2 close parenthesis divided by open parenthesis m 1 plus m 2 close parenthesis equals open parenthesis 20 grams times 10 centimeters plus 30 grams times 60 centimeters close parenthesis divided by open parenthesis 20 grams plus 30 grams close parenthesis equals 40 centimeters"
+   },
+   {
+       "expression": "20 \\mathrm{~g}",
+       "sheet": "Round 1",
+       "row": 4,
+       "column": "C",
+       "sentence": "20 grams"
+   },
+   {
+       "expression": "15 \\mathrm{~cm}",
+       "sheet": "Round 1",
+       "row": 4,
+       "column": "C",
+       "sentence": "15 centimeters"
+   },
+   {
+       "expression": "30 \\mathrm{~g}",
+       "sheet": "Round 1",
+       "row": 4,
+       "column": "C",
+       "sentence": "30 grams"
+   },
+   {
+       "expression": "60 \\mathrm{~cm}",
+       "sheet": "Round 1",
+       "row": 4,
+       "column": "C",
+       "sentence": "60 centimeters"
+   },
+   {
+       "expression": "30 \\mathrm{~g}",
+       "sheet": "Round 1",
+       "row": 4,
+       "column": "D",
+       "sentence": "30 grams"
+   },
+   {
+       "expression": "75 \\mathrm{~cm}",
+       "sheet": "Round 1",
+       "row": 4,
+       "column": "D",
+       "sentence": "75 centimeters"
+   },
+   {
+       "expression": "20 \\mathrm{~g}",
+       "sheet": "Round 1",
+       "row": 4,
+       "column": "D",
+       "sentence": "20 grams"
+   },
+   {
+       "expression": "15 \\mathrm{~cm}",
+       "sheet": "Round 1",
+       "row": 4,
+       "column": "D",
+       "sentence": "15 centimeters"
+   },
+   {
+       "expression": "51 \\mathrm{~cm}",
+       "sheet": "Round 1",
+       "row": 4,
+       "column": "I",
+       "sentence": "51 centimeters"
+   },
+   {
+       "expression": "\nx=\\left(m_{1} l_{1}+m_{2} l_{2}\\right) /\\left(m_{1}+m_{2}\\right)=(20 \\mathrm{~g} \\times 15 \\mathrm{~cm}+30 \\mathrm{~g} \\times 75 \\mathrm{~cm}) /(20 \\mathrm{~g}+30 \\mathrm{~g})=51 \\mathrm{~cm}\n",
+       "sheet": "Round 1",
+       "row": 4,
+       "column": "I",
+       "sentence": "x equals open parenthesis m 1 l 1 plus m 2 l 2 close parenthesis divided by open parenthesis m 1 plus m 2 close parenthesis equals open parenthesis 20 grams times 15 centimeters plus 30 grams times 75 centimeters close parenthesis divided by open parenthesis 20 grams plus 30 grams close parenthesis equals 51 centimeters"
+   },
+   {
+       "expression": "30^{\\circ}",
+       "sheet": "Round 1",
+       "row": 5,
+       "column": "D",
+       "sentence": "30 degrees"
+   },
+   {
+       "expression": "19^{\\circ}",
+       "sheet": "Round 1",
+       "row": 5,
+       "column": "I",
+       "sentence": "19 degrees"
+   },
+   {
+       "expression": "\n\\theta_{r}=\\left(\\sin \\theta_{i}\\right) / n=\\left[\\left(\\sin 30^{\\circ}\\right) / 1.53\\right]=19^{\\circ}\n",
+       "sheet": "Round 1",
+       "row": 5,
+       "column": "I",
+       "sentence": "theta r equals open parenthesis sine theta i close parenthesis divided by n equals open square bracket open parenthesis sine 30 degrees close parenthesis divided by 1.53 close square bracket equals 19 degrees"
+   },
+   {
+       "expression": "30^{\\circ}",
+       "sheet": "Round 1",
+       "row": 6,
+       "column": "D",
+       "sentence": "30 degrees"
+   },
+   {
+       "expression": "18^{\\circ}",
+       "sheet": "Round 1",
+       "row": 6,
+       "column": "I",
+       "sentence": "18 degrees"
+   },
+   {
+       "expression": "\n\\theta_{r}=\\left(\\sin \\theta_{i}\\right) / n=\\left[\\left(\\sin 30^{\\circ}\\right) / 1.62\\right]=18^{\\circ}\n",
+       "sheet": "Round 1",
+       "row": 6,
+       "column": "I",
+       "sentence": "theta r equals open parenthesis sine theta i close parenthesis divided by n equals open square bracket open parenthesis sine 30 degrees close parenthesis divided by 1.62 close square bracket equals 18 degrees"
+   },
+   {
+       "expression": "30^{\\circ}",
+       "sheet": "Round 1",
+       "row": 7,
+       "column": "D",
+       "sentence": "30 degrees"
+   },
+   {
+       "expression": "12^{\\circ}",
+       "sheet": "Round 1",
+       "row": 7,
+       "column": "I",
+       "sentence": "12 degrees"
+   },
+   {
+       "expression": "\n\\theta_{r}=\\left(\\sin \\theta_{i}\\right) / n=\\left[\\left(\\sin 30^{\\circ}\\right) / 2.45\\right]=12^{\\circ}\n",
+       "sheet": "Round 1",
+       "row": 7,
+       "column": "I",
+       "sentence": "theta r equals open parenthesis sine theta i close parenthesis divided by n equals open square bracket open parenthesis sine 30 degrees close parenthesis divided by 2.45 close square bracket equals 12 degrees"
+   },
+   {
+       "expression": "1312 \\mathrm{kJmol}^{-1}",
+       "sheet": "Round 1",
+       "row": 8,
+       "column": "I",
+       "sentence": "1312 kilojoules per mole"
+   },
+   {
+       "expression": "520 \\mathrm{kJmol}^{-1}",
+       "sheet": "Round 1",
+       "row": 8,
+       "column": "I",
+       "sentence": "520 kilojoules per mole"
+   },
+   {
+       "expression": "148 \\mathrm{kJmol}^{-1} ; \\quad \\mathrm{Na} \\quad 107 \\mathrm{kJmol}^{-1}",
+       "sheet": "Round 1",
+       "row": 9,
+       "column": "I",
+       "sentence": "148 kilojoules per mole; Na 107 kilojoules per mole"
+   },
+   {
+       "expression": "\\quad\\left(\\mathrm{S} \\quad-200 \\mathrm{kJmol}^{-1} ; 0 \\quad-141 \\mathrm{kJmol}^{-1}\\right.",
+       "sheet": "Round 1",
+       "row": 10,
+       "column": "I",
+       "sentence": "open parenthesis S minus 200 kilojoules per mole; 0 minus 141 kilojoules per mole close parenthesis"
+   },
+   {
+       "expression": "\\mathrm{NaAl}(\\mathrm{OH})_{2} \\mathrm{CO}_{3}",
+       "sheet": "Round 1",
+       "row": 11,
+       "column": "D",
+       "sentence": "N a A l open parenthesis O H close parenthesis subscript 2 C O subscript 3"
+   },
+   {
+       "expression": "\\mathrm{Al}=27.0 ; \\mathrm{Na}=23.0 ; \\mathrm{O}=16.0 ; \\mathrm{C}=12.0 ; \\mathrm{H}=1.00",
+       "sheet": "Round 1",
+       "row": 11,
+       "column": "D",
+       "sentence": "Al equals 27.0; Na equals 23.0; O equals 16.0; C equals 12.0; H equals 1.00"
+   },
+   {
+       "expression": "\\operatorname{NaAl}(\\mathrm{OH})_{2} \\mathrm{CO}_{3}=\\quad 23.0+27.0+34.0+60.0=144",
+       "sheet": "Round 1",
+       "row": 11,
+       "column": "I",
+       "sentence": "N a A l open parenthesis O H close parenthesis subscript 2 C O subscript 3 equals 23.0 plus 27.0 plus 34.0 plus 60.0 equals 144"
+   },
+   {
+       "expression": "\\mathrm{Fe}_{4}\\left[\\mathrm{Fe}(\\mathrm{CN})_{6}\\right]_{3}",
+       "sheet": "Round 1",
+       "row": 12,
+       "column": "D",
+       "sentence": "Fe subscript 4 open square bracket Fe open parenthesis C N close parenthesis subscript 6 close square bracket subscript 3"
+   }
+]

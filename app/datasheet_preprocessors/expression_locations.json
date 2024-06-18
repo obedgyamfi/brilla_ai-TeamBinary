@@ -1,0 +1,202 @@
+[
+    {
+        "cell": "D8",
+        "value": "ax $+5 y=3$, and $4 x+$ by $=1$ intersect at the point $(2,-1)$",
+        "expressions": [
+            "+5 y=3",
+            "4 x+",
+            "=1",
+            "(2,-1)"
+        ],
+        "replacements": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "cell": "D9",
+        "value": "$3 x+a y=4$, and $b x-5 y=6$ intersect at the point $(2,-2)$",
+        "expressions": [
+            "3 x+a y=4",
+            "b x-5 y=6",
+            "(2,-2)"
+        ],
+        "replacements": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "cell": "D10",
+        "value": "$a x+2 y=-3$, and $2 x+$ by $=6$ meet at the point $(1,2)$",
+        "expressions": [
+            "a x+2 y=-3",
+            "2 x+",
+            "=6",
+            "(1,2)"
+        ],
+        "replacements": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "cell": "D11",
+        "value": "$\\mathrm{~A}=\\left(\\begin{array}{cc}2 x & x \\\\ 3 & x\\end{array}\\right), \\quad \\operatorname{det} A=5 \\quad$",
+        "expressions": [
+            "\\mathrm{~A}=\\left(\\begin{array}{cc}2 x & x \\\\ 3 & x\\end{array}\\right), \\quad \\operatorname{det} A=5 \\quad"
+        ],
+        "replacements": [
+            ""
+        ]
+    },
+    {
+        "cell": "D12",
+        "value": "$\\mathrm{~A}=\\left(\\begin{array}{cc}3 x & 1 \\\\ x & 2 x\\end{array}\\right), \\operatorname{det} \\mathrm{A}=7 \\quad$",
+        "expressions": [
+            "\\mathrm{~A}=\\left(\\begin{array}{cc}3 x & 1 \\\\ x & 2 x\\end{array}\\right), \\operatorname{det} \\mathrm{A}=7 \\quad"
+        ],
+        "replacements": [
+            ""
+        ]
+    },
+    {
+        "cell": "D13",
+        "value": "$\\mathrm{~A}=\\left(\\begin{array}{cc}3 x & 2 \\\\ x & 5 x\\end{array}\\right), \\operatorname{det} A=1 \\quad$",
+        "expressions": [
+            "\\mathrm{~A}=\\left(\\begin{array}{cc}3 x & 2 \\\\ x & 5 x\\end{array}\\right), \\operatorname{det} A=1 \\quad"
+        ],
+        "replacements": [
+            ""
+        ]
+    },
+    {
+        "cell": "D14",
+        "value": "Find the mark at the position of the knife edge when the meter stick is balanced with a $40 \\mathrm{~g}$ mass at the $15 \\mathrm{~cm}$ mark and a $60 \\mathrm{~g}$ mass at the $60 \\mathrm{~cm}$ mark.",
+        "expressions": [
+            "40 \\mathrm{~g}",
+            "15 \\mathrm{~cm}",
+            "60 \\mathrm{~g}",
+            "60 \\mathrm{~cm}"
+        ],
+        "replacements": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "cell": "D15",
+        "value": "Find the mark at the position of the knife edge when the meter stick is balanced with a $20 \\mathrm{~g}$ mass at the $20 \\mathrm{~cm}$ mark and a $30 \\mathrm{~g}$ mass at the $70 \\mathrm{~cm}$ mark.",
+        "expressions": [
+            "20 \\mathrm{~g}",
+            "20 \\mathrm{~cm}",
+            "30 \\mathrm{~g}",
+            "70 \\mathrm{~cm}"
+        ],
+        "replacements": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "cell": "D16",
+        "value": "Find the mark at the position of the knife edge when the meter stick is balanced with a $15 \\mathrm{~g}$ mass at the $20 \\mathrm{~cm}$ mark and a $35 \\mathrm{~g}$ mass at the $60 \\mathrm{~cm}$ mark.",
+        "expressions": [
+            "15 \\mathrm{~g}",
+            "20 \\mathrm{~cm}",
+            "35 \\mathrm{~g}",
+            "60 \\mathrm{~cm}"
+        ],
+        "replacements": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "cell": "D17",
+        "value": "The radius of curvature of a concave spherical mirror is $0.32 \\mathrm{~m}$. Find the magnitude of the lateral magnification produced by the mirror of an axial object placed $0.80 \\mathrm{~m}$ from its vertex.",
+        "expressions": [
+            "0.32 \\mathrm{~m}",
+            "0.80 \\mathrm{~m}"
+        ],
+        "replacements": [
+            "",
+            ""
+        ]
+    },
+    {
+        "cell": "D18",
+        "value": "The radius of curvature of a concave spherical mirror is $0.25 \\mathrm{~m}$. Find the magnitude of the lateral magnification produced by the mirror of an axial object placed $0.75 \\mathrm{~m}$ from its vertex.",
+        "expressions": [
+            "0.25 \\mathrm{~m}",
+            "0.75 \\mathrm{~m}"
+        ],
+        "replacements": [
+            "",
+            ""
+        ]
+    },
+    {
+        "cell": "D19",
+        "value": "The radius of curvature of a concave spherical mirror is $0.20 \\mathrm{~m}$. Find the magnitude of the lateral magnification produced by the mirror of an axial object placed $0.15 \\mathrm{~m}$ from its vertex.",
+        "expressions": [
+            "0.20 \\mathrm{~m}",
+            "0.15 \\mathrm{~m}"
+        ],
+        "replacements": [
+            "",
+            ""
+        ]
+    },
+    {
+        "cell": "D23",
+        "value": "Calculate the mass of $\\mathrm{HNO}_{3}$ that can be produced from $69.0 \\mathrm{~g}$ of $\\mathrm{NO}_{2}$ gas.",
+        "expressions": [
+            "\\mathrm{HNO}_{3}",
+            "69.0 \\mathrm{~g}",
+            "\\mathrm{NO}_{2}"
+        ],
+        "replacements": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "cell": "D24",
+        "value": "Find the volume of $\\mathrm{NO}_{2}$ at STP that can be used to produce $189 \\mathrm{~g}$ of $\\mathrm{HNO}_{3}$.",
+        "expressions": [
+            "\\mathrm{NO}_{2}",
+            "189 \\mathrm{~g}",
+            "\\mathrm{HNO}_{3}"
+        ],
+        "replacements": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "cell": "D25",
+        "value": "Calculate the mass of the minimum amount of water required to react completely with $44.8 \\mathrm{dm}^{3}$ of $\\mathrm{NO}_{2}$ at STP.",
+        "expressions": [
+            "44.8 \\mathrm{dm}^{3}",
+            "\\mathrm{NO}_{2}"
+        ],
+        "replacements": [
+            "",
+            ""
+        ]
+    }
+]

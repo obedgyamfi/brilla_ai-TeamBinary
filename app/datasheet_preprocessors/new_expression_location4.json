@@ -1,0 +1,858 @@
+[
+    {
+        "worksheet": "Round 1",
+        "cell": "C8",
+        "value": "Find the values of the constants $a$ and $b$ if the straight lines",
+        "expressions": [
+            "a",
+            "b"
+        ],
+        "replacements": [
+            "a",
+            "b"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "D8",
+        "value": "ax $+5 y=3$, and $4 x+$ by $=1$ intersect at the point $(2,-1)$",
+        "expressions": [
+            "+5 y=3",
+            "4 x+",
+            "=1",
+            "(2,-1)"
+        ],
+        "replacements": [
+            "plus five y equals three",
+            "four x plus",
+            "equals one",
+            "two comma negative one"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "I8",
+        "value": "$a=4, b=7$\n$[2 a-5=3,2 a=8, a=4,8-b=1, b=7]$",
+        "expressions": [
+            "a=4, b=7",
+            "[2 a-5=3,2 a=8, a=4,8-b=1, b=7]"
+        ],
+        "replacements": [
+            "a equals four, b equals seven",
+            "two a minus five equals three, two a equals eight, a equals four, eight minus b equals one, b equals seven"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "C9",
+        "value": "Find the values of the constants $a$ and $b$ if the straight lines",
+        "expressions": [
+            "a",
+            "b"
+        ],
+        "replacements": [
+            "a",
+            "b"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "D9",
+        "value": "$3 x+a y=4$, and $b x-5 y=6$ intersect at the point $(2,-2)$",
+        "expressions": [
+            "3 x+a y=4",
+            "b x-5 y=6",
+            "(2,-2)"
+        ],
+        "replacements": [
+            "three x plus a y equals four",
+            "b x minus five y equals six",
+            "two comma negative two"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "I9",
+        "value": "$a=1, b=-2$ $[6-2 a=4,2 a=2, a=1,2 b+10=6,2 b=-4, b=--2]$",
+        "expressions": [
+            "a=1, b=-2",
+            "[6-2 a=4,2 a=2, a=1,2 b+10=6,2 b=-4, b=--2]"
+        ],
+        "replacements": [
+            "a equals one, b equals negative two",
+            "six minus two a equals four, two a equals two, a equals one, two b plus ten equals six, two b equals negative four, b equals negative two"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "C10",
+        "value": "Find the values of the constants $a$ and $b$ if the straight lines",
+        "expressions": [
+            "a",
+            "b"
+        ],
+        "replacements": [
+            "a",
+            "b"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "D10",
+        "value": "$a x+2 y=-3$, and $2 x+$ by $=6$ meet at the point $(1,2)$",
+        "expressions": [
+            "a x+2 y=-3",
+            "2 x+",
+            "=6",
+            "(1,2)"
+        ],
+        "replacements": [
+            "a x plus two y equals negative three",
+            "two x plus",
+            "equals six",
+            "one comma two"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "I10",
+        "value": "$a=-7, b=2$\n$[a+4=-3, a=-7,2+2 b=6,2 b=4, b=2]$",
+        "expressions": [
+            "a=-7, b=2",
+            "[a+4=-3, a=-7,2+2 b=6,2 b=4, b=2]"
+        ],
+        "replacements": [
+            "a equals negative seven, b equals two",
+            "a plus four equals negative three, a equals negative seven, two plus two b equals six, two b equals four, b equals two"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "C11",
+        "value": "Solve for $\\mathrm{x}$ if the determinant of the matrix $A$ has the given value.",
+        "expressions": [
+            "\\mathrm{x}",
+            "A"
+        ],
+        "replacements": [
+            "x",
+            "A"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "D11",
+        "value": "$\\mathrm{~A}=\\left(\\begin{array}{cc}2 x & x \\\\ 3 & x\\end{array}\\right), \\quad \\operatorname{det} A=5 \\quad$",
+        "expressions": [
+            "\\mathrm{~A}=\\left(\\begin{array}{cc}2 x & x \\\\ 3 & x\\end{array}\\right), \\quad \\operatorname{det} A=5 \\quad"
+        ],
+        "replacements": [
+            "A equals the matrix with entries 2x, x in the first row and 3, x in the second row, the determinant of A equals 5"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "I11",
+        "value": "$x=5 / 2,-1$\n$\\left[2 x^{2}-3 x-5=0,2 x^{2}-5 x+2 x-5=(x+1)(2 x-5)=0, x=5 / 2,-1\\right]$",
+        "expressions": [
+            "x=5 / 2,-1",
+            "\\left[2 x^{2}-3 x-5=0,2 x^{2}-5 x+2 x-5=(x+1)(2 x-5)=0, x=5 / 2,-1\\right]"
+        ],
+        "replacements": [
+            "x equals five halves, negative one",
+            "two x squared minus three x minus five equals zero, two x squared minus five x plus two x minus five equals x plus one times two x minus five equals zero, x equals five halves, negative one"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "C12",
+        "value": "Solve for $\\mathrm{x}$ if the determinant of the matrix $A$ has the given value.",
+        "expressions": [
+            "\\mathrm{x}",
+            "A"
+        ],
+        "replacements": [
+            "x",
+            "A"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "D12",
+        "value": "$\\mathrm{~A}=\\left(\\begin{array}{cc}3 x & 1 \\\\ x & 2 x\\end{array}\\right), \\operatorname{det} \\mathrm{A}=7 \\quad$",
+        "expressions": [
+            "\\mathrm{~A}=\\left(\\begin{array}{cc}3 x & 1 \\\\ x & 2 x\\end{array}\\right), \\operatorname{det} \\mathrm{A}=7 \\quad"
+        ],
+        "replacements": [
+            "A equals the matrix with entries 3x, 1 in the first row and x, 2x in the second row, the determinant of A equals 7"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "I12",
+        "value": "$\\mathbf{x}=7 / 6,-1$\n$\\left[6 x^{2}-x-7=0,6 x^{2}-7 x+6 x-7=(x+1)(6 x-7)=0, x=7 / 6,-1\\right]$",
+        "expressions": [
+            "\\mathbf{x}=7 / 6,-1",
+            "\\left[6 x^{2}-x-7=0,6 x^{2}-7 x+6 x-7=(x+1)(6 x-7)=0, x=7 / 6,-1\\right]"
+        ],
+        "replacements": [
+            "x equals seven sixths, negative one",
+            "six x squared minus x minus seven equals zero, six x squared minus seven x plus six x minus seven equals x plus one times six x minus seven equals zero, x equals seven sixths, negative one"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "C13",
+        "value": "Solve for $\\mathrm{x}$ if the determinant of the matrix $A$ has the given value.",
+        "expressions": [
+            "\\mathrm{x}",
+            "A"
+        ],
+        "replacements": [
+            "x",
+            "A"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "D13",
+        "value": "$\\mathrm{~A}=\\left(\\begin{array}{cc}3 x & 2 \\\\ x & 5 x\\end{array}\\right), \\operatorname{det} A=1 \\quad$",
+        "expressions": [
+            "\\mathrm{~A}=\\left(\\begin{array}{cc}3 x & 2 \\\\ x & 5 x\\end{array}\\right), \\operatorname{det} A=1 \\quad"
+        ],
+        "replacements": [
+            "A equals the matrix with entries 3x, 2 in the first row and x, 5x in the second row, the determinant of A equals 1"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "I13",
+        "value": "$\\mathrm{x}=\\mathbf{1 / 3},\\mathbf{- 1 / 5}$\n$\\left[15 \\mathrm{x}^{2}-2 \\mathrm{x}-1=(3 \\mathrm{x}-1)(5 \\mathrm{x}+1)=0, \\mathrm{x}=1 / 3, \\mathrm{x}=-1 / 5\\right]$",
+        "expressions": [
+            "\\mathrm{x}=\\mathbf{1 / 3},\\mathbf{- 1 / 5}",
+            "\\left[15 \\mathrm{x}^{2}-2 \\mathrm{x}-1=(3 \\mathrm{x}-1)(5 \\mathrm{x}+1)=0, \\mathrm{x}=1 / 3, \\mathrm{x}=-1 / 5\\right]"
+        ],
+        "replacements": [
+            "x equals one over three, negative 1 over 5",
+            "fifteen x squared minus two x minus 1 equals three x minus 1, five x plus one equals zero, x equals 1 over 3, x equals minus one over five"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "D14",
+        "value": "Find the mark at the position of the knife edge when the meter stick is balanced with a $40 \\mathrm{~g}$ mass at the $15 \\mathrm{~cm}$ mark and a $60 \\mathrm{~g}$ mass at the $60 \\mathrm{~cm}$ mark.",
+        "expressions": [
+            "40 \\mathrm{~g}",
+            "15 \\mathrm{~cm}",
+            "60 \\mathrm{~g}",
+            "60 \\mathrm{~cm}"
+        ],
+        "replacements": [
+            "forty g",
+            "fifteen cm",
+            "sixty g",
+            "sixty cm"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "I14",
+        "value": "$42 \\mathrm{~cm}$",
+        "expressions": [
+            "42 \\mathrm{~cm}"
+        ],
+        "replacements": [
+            "forty two cm"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "D15",
+        "value": "Find the mark at the position of the knife edge when the meter stick is balanced with a $20 \\mathrm{~g}$ mass at the $20 \\mathrm{~cm}$ mark and a $30 \\mathrm{~g}$ mass at the $70 \\mathrm{~cm}$ mark.",
+        "expressions": [
+            "20 \\mathrm{~g}",
+            "20 \\mathrm{~cm}",
+            "30 \\mathrm{~g}",
+            "70 \\mathrm{~cm}"
+        ],
+        "replacements": [
+            "twenty g",
+            "twenty cm",
+            "thirty g",
+            "seventy cm"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "I15",
+        "value": "$50 \\mathrm{~cm}$",
+        "expressions": [
+            "50 \\mathrm{~cm}"
+        ],
+        "replacements": [
+            "fifty cm"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "D16",
+        "value": "Find the mark at the position of the knife edge when the meter stick is balanced with a $15 \\mathrm{~g}$ mass at the $20 \\mathrm{~cm}$ mark and a $35 \\mathrm{~g}$ mass at the $60 \\mathrm{~cm}$ mark.",
+        "expressions": [
+            "15 \\mathrm{~g}",
+            "20 \\mathrm{~cm}",
+            "35 \\mathrm{~g}",
+            "60 \\mathrm{~cm}"
+        ],
+        "replacements": [
+            "fifteen g",
+            "twenty cm",
+            "thirty five g",
+            "sixty cm"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "I16",
+        "value": "$48 \\mathrm{~cm}$",
+        "expressions": [
+            "48 \\mathrm{~cm}"
+        ],
+        "replacements": [
+            "forty eight cm"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "D17",
+        "value": "The radius of curvature of a concave spherical mirror is $0.32 \\mathrm{~m}$. Find the magnitude of the lateral magnification produced by the mirror of an axial object placed $0.80 \\mathrm{~m}$ from its vertex.",
+        "expressions": [
+            "0.32 \\mathrm{~m}",
+            "0.80 \\mathrm{~m}"
+        ],
+        "replacements": [
+            "zero point three two m",
+            "zero point eight zero m"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "D18",
+        "value": "The radius of curvature of a concave spherical mirror is $0.25 \\mathrm{~m}$. Find the magnitude of the lateral magnification produced by the mirror of an axial object placed $0.75 \\mathrm{~m}$ from its vertex.",
+        "expressions": [
+            "0.25 \\mathrm{~m}",
+            "0.75 \\mathrm{~m}"
+        ],
+        "replacements": [
+            "zero point two five m",
+            "zero point seven five m"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "D19",
+        "value": "The radius of curvature of a concave spherical mirror is $0.20 \\mathrm{~m}$. Find the magnitude of the lateral magnification produced by the mirror of an axial object placed $0.15 \\mathrm{~m}$ from its vertex.",
+        "expressions": [
+            "0.20 \\mathrm{~m}",
+            "0.15 \\mathrm{~m}"
+        ],
+        "replacements": [
+            "zero point two zero m",
+            "zero point one five m"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "C23",
+        "value": "In the commercial preparation of trioxonitrate(V) acid, nitrogen(IV) oxide dissolves in water to give the acid while nitrogen(II) oxide is evolved. The balanced equation for the reaction is as follows:\n$3 \\mathrm{NO}_{2}+\\mathrm{H}_{2} \\mathrm{O} \\rightarrow 2 \\mathrm{HNO}_{3}+\\mathrm{NO}$.\n$\\mathrm{O}=16.0 ; \\mathrm{N}=14.0 ; \\mathrm{H}=1.00 . \\quad$ The molar volume of a gas at STP is $22.4 \\mathrm{dm}^{3}$.",
+        "expressions": [
+            "3 \\mathrm{NO}_{2}+\\mathrm{H}_{2} \\mathrm{O} \\rightarrow 2 \\mathrm{HNO}_{3}+\\mathrm{NO}",
+            "\\mathrm{O}=16.0 ; \\mathrm{N}=14.0 ; \\mathrm{H}=1.00 . \\quad",
+            "22.4 \\mathrm{dm}^{3}"
+        ],
+        "replacements": [
+            "three NO two plus H two O right arrow two HNO three plus NO",
+            "O equals sixteen point zero ; N equals fourteen point zero ; H equals one point zero zero . quad",
+            "twenty two point four dm cubed"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "D23",
+        "value": "Calculate the mass of $\\mathrm{HNO}_{3}$ that can be produced from $69.0 \\mathrm{~g}$ of $\\mathrm{NO}_{2}$ gas.",
+        "expressions": [
+            "\\mathrm{HNO}_{3}",
+            "69.0 \\mathrm{~g}",
+            "\\mathrm{NO}_{2}"
+        ],
+        "replacements": [
+            "HNO three",
+            "sixty nine point zero g",
+            "NO two"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "I23",
+        "value": "$3 \\mathrm{NO}_{2}+\\mathrm{H}_{2} \\mathrm{O} \\rightarrow 2 \\mathrm{HNO}_{3}+\\mathrm{NO}$.\n$3 \\times 46.0$\n$138 \\mathrm{~g}$ of $\\mathrm{NO}_{2} \\quad \\equiv \\quad 126 \\mathrm{~g}$ of $\\mathrm{HNO}_{3}$\nTherefore, mass of $\\mathrm{HNO}_{3}$ to be produced from $69.0 \\mathrm{~g}$ of NO${ }_{2}=$ $(69.0 / 138)^{*} 126 \\mathrm{~g}=63.0 \\mathrm{~g}$",
+        "expressions": [
+            "3 \\mathrm{NO}_{2}+\\mathrm{H}_{2} \\mathrm{O} \\rightarrow 2 \\mathrm{HNO}_{3}+\\mathrm{NO}",
+            "3 \\times 46.0",
+            "138 \\mathrm{~g}",
+            "\\mathrm{NO}_{2} \\quad \\equiv \\quad 126 \\mathrm{~g}",
+            "\\mathrm{HNO}_{3}",
+            "\\mathrm{HNO}_{3}",
+            "69.0 \\mathrm{~g}",
+            "{ }_{2}=",
+            "(69.0 / 138)^{*} 126 \\mathrm{~g}=63.0 \\mathrm{~g}"
+        ],
+        "replacements": [
+            "three NO two plus H two O right arrow two HNO three plus NO",
+            "three times forty six point zero",
+            "one hundred thirty eight g",
+            "NO two quad equiv quad one hundred twenty six g",
+            "HNO three",
+            "HNO three",
+            "sixty nine point zero g",
+            "two equals",
+            "sixty nine point zero divided by one hundred thirty eight times one hundred twenty six g equals sixty three point zero g"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "C24",
+        "value": "In the commercial preparation of trioxonitrate(V) acid, nitrogen(IV) oxide dissolves in water to give the acid while nitrogen(II) oxide is evolved. The balanced equation for the reaction is as follows:\n$3 \\mathrm{NO}_{2}+\\mathrm{H}_{2} \\mathrm{O} \\rightarrow 2 \\mathrm{HNO}_{3}+\\mathrm{NO}$.\n$\\mathrm{O}=16.0 ; \\mathrm{N}=14.0 ; \\mathrm{H}=1.00 . \\quad$ The molar volume of a gas at STP is $22.4 \\mathrm{dm}^{3}$.",
+        "expressions": [
+            "3 \\mathrm{NO}_{2}+\\mathrm{H}_{2} \\mathrm{O} \\rightarrow 2 \\mathrm{HNO}_{3}+\\mathrm{NO}",
+            "\\mathrm{O}=16.0 ; \\mathrm{N}=14.0 ; \\mathrm{H}=1.00 . \\quad",
+            "22.4 \\mathrm{dm}^{3}"
+        ],
+        "replacements": [
+            "three NO two plus H two O right arrow two HNO three plus NO",
+            "O equals sixteen point zero ; N equals fourteen point zero ; H equals one point zero zero . quad",
+            "twenty two point four dm cubed"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "D24",
+        "value": "Find the volume of $\\mathrm{NO}_{2}$ at STP that can be used to produce $189 \\mathrm{~g}$ of $\\mathrm{HNO}_{3}$.",
+        "expressions": [
+            "\\mathrm{NO}_{2}",
+            "189 \\mathrm{~g}",
+            "\\mathrm{HNO}_{3}"
+        ],
+        "replacements": [
+            "NO two",
+            "one hundred eighty nine g",
+            "HNO three"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "I24",
+        "value": "$3 \\mathrm{NO}_{2}+\\mathrm{H}_{2} \\mathrm{O} \\rightarrow 2 \\mathrm{HNO}_{3}+\\mathrm{NO}$.\nMoles of $\\mathrm{HNO}_{3}$ in $189 \\mathrm{~g}$ of it. $\\quad=189 / 63.0=3.00$\nMoles of $\\mathrm{NO}_{2}$ needed $\\quad=(3.00 / 2.00) * 3=4.50$.\nHence volume of $\\mathrm{NO}_{2}$ at STP required $=4.50 * 22.4=100.8 \\mathrm{dm}^{3}=$\n$101 \\mathrm{dm}^{3}$",
+        "expressions": [
+            "3 \\mathrm{NO}_{2}+\\mathrm{H}_{2} \\mathrm{O} \\rightarrow 2 \\mathrm{HNO}_{3}+\\mathrm{NO}",
+            "\\mathrm{HNO}_{3}",
+            "189 \\mathrm{~g}",
+            "\\quad=189 / 63.0=3.00",
+            "\\mathrm{NO}_{2}",
+            "\\quad=(3.00 / 2.00) * 3=4.50",
+            "\\mathrm{NO}_{2}",
+            "=4.50 * 22.4=100.8 \\mathrm{dm}^{3}=",
+            "101 \\mathrm{dm}^{3}"
+        ],
+        "replacements": [
+            "three NO two plus H two O right arrow two HNO three plus NO",
+            "HNO three",
+            "one hundred eighty nine g",
+            "quad equals one hundred eighty nine divided by sixty three point zero equals three point zero zero",
+            "NO two",
+            "quad equals three point zero zero divided by two point zero zero times three equals four point five zero",
+            "NO two",
+            "equals four point five zero times twenty two point four equals one hundred point eight dm cubed equals",
+            "one hundred one dm cubed"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "C25",
+        "value": "In the commercial preparation of trioxonitrate(V) acid, nitrogen(IV) oxide dissolves in water to give the acid while nitrogen(II) oxide is evolved. The balanced equation for the reaction is as follows:\n$3 \\mathrm{NO}_{2}+\\mathrm{H}_{2} \\mathrm{O} \\rightarrow 2 \\mathrm{HNO}_{3}+\\mathrm{NO}$.\n$\\mathrm{O}=16.0 ; \\mathrm{N}=14.0 ; \\mathrm{H}=1.00 . \\quad$ The molar volume of a gas at STP is $22.4 \\mathrm{dm}^{3}$.",
+        "expressions": [
+            "3 \\mathrm{NO}_{2}+\\mathrm{H}_{2} \\mathrm{O} \\rightarrow 2 \\mathrm{HNO}_{3}+\\mathrm{NO}",
+            "\\mathrm{O}=16.0 ; \\mathrm{N}=14.0 ; \\mathrm{H}=1.00 . \\quad",
+            "22.4 \\mathrm{dm}^{3}"
+        ],
+        "replacements": [
+            "three NO two plus H two O right arrow two HNO three plus NO",
+            "O equals sixteen point zero ; N equals fourteen point zero ; H equals one point zero zero . quad",
+            "twenty two point four dm cubed"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "D25",
+        "value": "Calculate the mass of the minimum amount of water required to react completely with $44.8 \\mathrm{dm}^{3}$ of $\\mathrm{NO}_{2}$ at STP.",
+        "expressions": [
+            "44.8 \\mathrm{dm}^{3}",
+            "\\mathrm{NO}_{2}"
+        ],
+        "replacements": [
+            "forty four point eight dm cubed",
+            "NO two"
+        ]
+    },
+    {
+        "worksheet": "Round 1",
+        "cell": "I25",
+        "value": "$3 \\mathrm{NO}_{2}+\\mathrm{H}_{2} \\mathrm{O} \\rightarrow 2 \\mathrm{HNO}_{3}+\\mathrm{NO}$.\nMoles of $\\mathrm{NO}_{2}$ in $44.8 \\mathrm{dm}^{3}$ of the gas at STP $=44.8 / 22.4=2.00$\nMoles of water required $=(1 / 3) * 2=2 / 3$\nMass of water $\\quad=(2 / 3) * 18.0=12.0 \\mathrm{~g}$",
+        "expressions": [
+            "3 \\mathrm{NO}_{2}+\\mathrm{H}_{2} \\mathrm{O} \\rightarrow 2 \\mathrm{HNO}_{3}+\\mathrm{NO}",
+            "\\mathrm{NO}_{2}",
+            "44.8 \\mathrm{dm}^{3}",
+            "=44.8 / 22.4=2.00",
+            "=(1 / 3) * 2=2 / 3",
+            "\\quad=(2 / 3) * 18.0=12.0 \\mathrm{~g}"
+        ],
+        "replacements": [
+            "three NO two plus H two O right arrow two HNO three plus NO",
+            "NO two",
+            "forty four point eight dm cubed",
+            "equals forty four point eight divided by twenty two point four equals two point zero zero",
+            "equals one divided by three times two equals two divided by three",
+            "quad equals two divided by three times eighteen point zero equals twelve point zero g"
+        ]
+    },
+        {
+            "worksheet": "Round 2",
+            "cell": "D2",
+            "value": "Factorize completely $a^{4}+4 a^{3} b+6 a^{2} b^{2}+4 a b^{3}+b^{4}$",
+            "expressions": [
+                "a^{4}+4 a^{3} b+6 a^{2} b^{2}+4 a b^{3}+b^{4}"
+            ],
+            "replacements": [
+                "a to the fourth power plus four a cubed b plus six a squared b squared plus four a b cubed plus b to the fourth power"
+            ]
+        },
+        {
+            "worksheet": "Round 2",
+            "cell": "I2",
+            "value": "$(\\mathbf{a}+\\mathbf{b})^{4}$",
+            "expressions": [
+                "(\\mathbf{a}+\\mathbf{b})^{4}"
+            ],
+            "replacements": [
+                "open parenthesis a plus b close parenthesis to the fourth power"
+            ]
+        },
+        {
+            "worksheet": "Round 2",
+            "cell": "I3",
+            "value": "120\n$[5 !=5 \\times 4 \\times 3 \\times 2 \\times 1=20 \\times 6=120]$",
+            "expressions": [
+                "[5 !=5 \\times 4 \\times 3 \\times 2 \\times 1=20 \\times 6=120]"
+            ],
+            "replacements": [
+                "open bracket five factorial equals five times four times three times two times one equals twenty times six equals one hundred twenty close bracket"
+            ]
+        },
+        {
+            "worksheet": "Round 2",
+            "cell": "D4",
+            "value": "Find the coordinates of the point of inflexion of the curve $y=x^{3}-6 x^{2}+$ $16 x$.",
+            "expressions": [
+                "y=x^{3}-6 x^{2}+",
+                "16 x"
+            ],
+            "replacements": [
+                "y equals x cubed minus six x squared plus",
+                "sixteen x"
+            ]
+        },
+        {
+            "worksheet": "Round 2",
+            "cell": "I4",
+            "value": "$(2,16)$\n$\\left[d y / d x=3 x^{2}-12 x+16, d^{2} y / d x^{2}=6 x-12=0, x=2, y=8-24+32=16\\right.$, $(2,16)]$",
+            "expressions": [
+                "(2,16)",
+                "\\left[d y / d x=3 x^{2}-12 x+16, d^{2} y / d x^{2}=6 x-12=0, x=2, y=8-24+32=16\\right.",
+                "(2,16)]"
+            ],
+            "replacements": [
+                "open parenthesis two comma sixteen close parenthesis",
+                "left bracket d y divided by d x equals three x squared minus twelve x plus sixteen, d squared y divided by d x squared equals six x minus twelve equals zero, x equals two, y equals eight minus twenty four plus thirty two equals sixteen right bracket",
+                "open parenthesis two comma sixteen close parenthesis close bracket"
+            ]
+        },
+        {
+            "worksheet": "Round 2",
+            "cell": "D9",
+            "value": "Why is the electrolysis of molten alumina preferred to electrolysis of an aqueous solution of $\\mathrm{Al}^{3+}$ ions in the commercial production of aluminium?",
+            "expressions": [
+                "\\mathrm{Al}^{3+}"
+            ],
+            "replacements": [
+                "Al three plus"
+            ]
+        },
+        {
+            "worksheet": "Round 2",
+            "cell": "I9",
+            "value": "$\\mathrm{H}^{+}$ ions in the aqueous solution will be discharged at the cathode in preference to the $\\mathrm{Al}^{3+}$ ions $\\mathrm{OR}$ the reduction potential of $\\mathrm{H}^{+}$ ions is higher than that of $\\mathrm{Al}^{3+}$.",
+            "expressions": [
+                "\\mathrm{H}^{+}",
+                "\\mathrm{Al}^{3+}",
+                "\\mathrm{OR}",
+                "\\mathrm{H}^{+}",
+                "\\mathrm{Al}^{3+}"
+            ],
+            "replacements": [
+                "H plus",
+                "Al three plus",
+                "OR",
+                "H plus",
+                "Al three plus"
+            ]
+        },
+        {
+            "worksheet": "Round 2",
+            "cell": "D10",
+            "value": "Calculate the $\\mathrm{pH}$ of 0.100 moldm $^{-3}$ solution of a sodium salt of an alkanoic acid whose $\\mathrm{pK}_{\\mathrm{a}}$ is 4.80 .",
+            "expressions": [
+                "\\mathrm{pH}",
+                "^{-3}",
+                "\\mathrm{pK}_{\\mathrm{a}}"
+            ],
+            "replacements": [
+                "pH",
+                "to the power of minus three",
+                "pK subscript a"
+            ]
+        },
+        {
+            "worksheet": "Round 2",
+            "cell": "I10",
+            "value": "$\\mathrm{pK} \\mathrm{b}_{\\mathrm{b}}$ of the conjugate base $=14.0-4.80=9.20$\n$$\n\\begin{array}{rlrl}\n\\mathrm{pOH} & =1 / 2 \\mathrm{pK}_{\\mathrm{b}-} \\quad 1 / 2 \\log \\mathrm{C}_{\\mathrm{b}} & \\left(C_{b}=0.100 \\mathrm{moldm}^{-3}\\right) \\\\\n& =9.20 / 2+0.500=5.10 \\\\\n\\text { Hence } \\mathrm{pH} & =14.0-5.10=8.90 .\n\\end{array}\n$$",
+            "expressions": [
+                "\\mathrm{pK} \\mathrm{b}_{\\mathrm{b}}",
+                "=14.0-4.80=9.20",
+                "\\mathrm{pOH} & =1 / 2 \\mathrm{pK}_{\\mathrm{b}-} \\quad 1 / 2 \\log \\mathrm{C}_{\\mathrm{b}} & \\left(C_{b}=0.100 \\mathrm{moldm}^{-3}\\right)",
+                "\\mathrm{pH} & =14.0-5.10=8.90 ."
+            ],
+            "replacements": [
+                "pK subscript b of the conjugate base equals fourteen point zero minus four point eighty equals nine point twenty",
+                "equals fourteen point zero minus four point eighty equals nine point twenty",
+                "pOH equals one divided by two pK subscript b minus quad one divided by two log C subscript b left parenthesis C subscript b equals zero point one hundred moldm to the power of minus three right parenthesis",
+                "pH equals fourteen point zero minus five point ten equals eight point ninety"
+            ]
+        },
+        {
+            "worksheet": "Round 2",
+            "cell": "D11",
+            "value": "What is the work done by an ideal gas in a process in which its volume changes from $2.0 \\mathrm{~m}^{3}$ to $6.0 \\mathrm{~m}^{3}$ at a constant pressure of $200 \\mathrm{kPa}$ ?",
+            "expressions": [
+                "2.0 \\mathrm{~m}^{3}",
+                "6.0 \\mathrm{~m}^{3}",
+                "200 \\mathrm{kPa}"
+            ],
+            "replacements": [
+                "two point zero cubic meters",
+                "six point zero cubic meters",
+                "two hundred kiloPascals"
+            ]
+        },
+        {
+            "worksheet": "Round 2",
+            "cell": "I11",
+            "value": "$800 \\mathrm{~kJ}$",
+            "expressions": [
+                "800 \\mathrm{~kJ}"
+            ],
+            "replacements": [
+                "eight hundred kilojoules"
+            ]
+        },
+        {
+            "worksheet": "Round 2",
+            "cell": "D12",
+            "value": "Find the resistance of a resistor which dissipates $200 \\mathrm{~W}$ when the current through it is $5 \\mathrm{~A}$.",
+            "expressions": [
+                "200 \\mathrm{~W}",
+                "5 \\mathrm{~A}"
+            ],
+            "replacements": [
+                "two hundred watts",
+                "five Amperes"
+            ]
+        },
+        {
+            "worksheet": "Round 2",
+            "cell": "I12",
+            "value": "$8 \\Omega$",
+            "expressions": [
+                "8 \\Omega"
+            ],
+            "replacements": [
+                "eight Ohms"
+            ]
+        },
+        {
+            "worksheet": "Round 2",
+            "cell": "D13",
+            "value": "A $2 \\mathrm{~kg}$ object moving at $5 \\mathrm{~ms}^{-1}$ collides head-on with and becomes attached to a stationary $1 \\mathrm{~kg}$ object. Give the direction in which the objects move relative to the velocity of the incoming object.",
+            "expressions": [
+                "2 \\mathrm{~kg}",
+                "5 \\mathrm{~ms}^{-1}",
+                "1 \\mathrm{~kg}"
+            ],
+            "replacements": [
+                "two kilograms",
+                "five meters per second",
+                "one kilogram"
+            ]
+        },
+            {
+                "worksheet": "Round 4",
+                "cell": "I2",
+                "value": "T. $\\quad$ (It is more pronounced in non-polar solvents.)",
+                "expressions": [
+                    "\\quad"
+                ],
+                "replacements": [
+                    " "
+                ]
+            },
+            {
+                "worksheet": "Round 4",
+                "cell": "I5",
+                "value": "$F$.",
+                "expressions": [
+                    "F"
+                ],
+                "replacements": [
+                    "F"
+                ]
+            },
+            {
+                "worksheet": "Round 4",
+                "cell": "D11",
+                "value": "$y=2 \\sin x$ has a maximum value at $x=\\pi$.",
+                "expressions": [
+                    "y=2 \\sin x",
+                    "x=\\pi"
+                ],
+                "replacements": [
+                    "y equals two sine x",
+                    "x equals pi"
+                ]
+            },
+            {
+                "worksheet": "Round 4",
+                "cell": "D12",
+                "value": "$y=3 \\cos x$ has a maximum value at $x=\\pi$.",
+                "expressions": [
+                    "y=3 \\cos x",
+                    "x=\\pi"
+                ],
+                "replacements": [
+                    "y equals three cosine x",
+                    "x equals pi"
+                ]
+            },
+            {
+                "worksheet": "Round 4",
+                "cell": "D13",
+                "value": "$y=\\tan x$ has a maximum value at $x=\\pi$.",
+                "expressions": [
+                    "y=\\tan x",
+                    "x=\\pi"
+                ],
+                "replacements": [
+                    "y equals tangent x",
+                    "x equals pi"
+                ]
+            },
+            {
+                "worksheet": "Round 4",
+                "cell": "C20",
+                "value": "A $1 \\mu \\mathrm{F}$, a $2 \\mu \\mathrm{F}$, and a $3 \\mu \\mathrm{F}$ capacitor are connected in series.",
+                "expressions": [
+                    "1 \\mu \\mathrm{F}",
+                    "2 \\mu \\mathrm{F}",
+                    "3 \\mu \\mathrm{F}"
+                ],
+                "replacements": [
+                    "one microfarad",
+                    "two microfarads",
+                    "three microfarads"
+                ]
+            },
+            {
+                "worksheet": "Round 4",
+                "cell": "D20",
+                "value": "The equivalent capacitance of the series network equals $6 \\mu \\mathrm{F}$.",
+                "expressions": [
+                    "6 \\mu \\mathrm{F}"
+                ],
+                "replacements": [
+                    "six microfarads"
+                ]
+            },
+            {
+                "worksheet": "Round 4",
+                "cell": "C21",
+                "value": "A $1 \\mu \\mathrm{F}$, a $2 \\mu \\mathrm{F}$, and a $3 \\mu \\mathrm{F}$ capacitor are connected in series.",
+                "expressions": [
+                    "1 \\mu \\mathrm{F}",
+                    "2 \\mu \\mathrm{F}",
+                    "3 \\mu \\mathrm{F}"
+                ],
+                "replacements": [
+                    "one microfarad",
+                    "two microfarads",
+                    "three microfarads"
+                ]
+            },
+            {
+                "worksheet": "Round 4",
+                "cell": "D21",
+                "value": "The equivalent capacitance of the series network is less than $6 \\mu \\mathrm{F}$.",
+                "expressions": [
+                    "6 \\mu \\mathrm{F}"
+                ],
+                "replacements": [
+                    "six microfarads"
+                ]
+            },
+            {
+                "worksheet": "Round 4",
+                "cell": "C22",
+                "value": "A $1 \\mu \\mathrm{F}$, a $2 \\mu \\mathrm{F}$, and a $3 \\mu \\mathrm{F}$ capacitor are connected in series.",
+                "expressions": [
+                    "1 \\mu \\mathrm{F}",
+                    "2 \\mu \\mathrm{F}",
+                    "3 \\mu \\mathrm{F}"
+                ],
+                "replacements": [
+                    "one microfarad",
+                    "two microfarads",
+                    "three microfarads"
+                ]
+            },
+            {
+                "worksheet": "Round 4",
+                "cell": "D22",
+                "value": "The equivalent capacitance of the series network is less than $3 \\mu \\mathrm{F}$.",
+                "expressions": [
+                    "3 \\mu \\mathrm{F}"
+                ],
+                "replacements": [
+                    "three microfarads"
+                ]
+            }
+    ]
+    
+
+
+    
+

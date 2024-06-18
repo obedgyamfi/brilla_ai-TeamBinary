@@ -1,0 +1,2186 @@
+\ldots
+\frac{\sqrt{a}}{\sqrt{a+\sqrt{b}}} \frac{\sqrt{a}}{\sqrt{a}+\sqrt{b}}
+\frac{a-\sqrt{a b}}{a-b}
+\frac{\sqrt{a}}{\sqrt{a}+\sqrt{b}}=\frac{\sqrt{a}(\sqrt{a}-\sqrt{b})}{(\sqrt{a}+\sqrt{b})(\sqrt{a}-\sqrt{b})}=\frac{a-\sqrt{a b}}{a-b}
+\frac{2 \sqrt{m}}{\sqrt{n}-\sqrt{m}}
+\frac{2(m+\sqrt{m n})}{n-m}
+\frac{2 \sqrt{m}}{\sqrt{n}-\sqrt{m}}=\frac{2 \sqrt{m}(\sqrt{n}+\sqrt{m n})}{(\sqrt{n}-\sqrt{m})(\sqrt{n}+\sqrt{m})}=\frac{2(m+\sqrt{m n})}{n-m}
+\mathrm{Cl}
+\operatorname{Mg}(\mathrm{OH})_{2}
+\mathrm{OH}
+\frac{(y+2)}{3}-\frac{(y-1)}{2}>0
+y<7
+2 y+4-3 y+3>0
+
+7-y>0 \Rightarrow y<7
+
+\frac{(3 y-3)}{5}-\frac{(2 y+1)}{3}<0
+y>-14
+9 y-9-10 y-5>0
+-y<14 \Rightarrow y>-14
+10 \mathrm{~cm}
+15 \mathrm{~cm}
+[\mathrm{s}=\mathrm{r} \theta=10 \times 1.5=15 \mathrm{~cm}]
+8 \mathrm{~cm}
+32 \mathrm{~cm}^{2}
+\left[\mathrm{A}=1 / 28^{2} \times 1=32 \mathrm{~cm}^{2}\right]
+*
+a * b=5
+*
+e=5
+e
+e^{*} a=a
+e^{*} a=\frac{e a}{5}
+
+\therefore \frac{e a}{5}=a \Rightarrow \frac{e}{5}=1 \Rightarrow e=5
+
+\mathrm{a} * \mathrm{~b}=4 \mathrm{ab}
+e=1 / 4
+e
+
+e * a=a, \quad e * a=4 a e \Rightarrow 4 a e=a \Rightarrow e=\frac{1}{4}
+
+30 \mathrm{~km} / \mathrm{h}
+40 \mathrm{~km} / \mathrm{h}
+\mathrm{CH}_{2}
+\mathrm{CH}_{2}
+-238,-277
+-337 \mathrm{~kJ}
+{ }^{-1}
+\mathrm{CO}_{2}(\mathrm{~g})
+\mathrm{H}_{2} \mathrm{O}(1)
+-285 \mathrm{~kJ}
+\mathrm{CH}_{3} \mathrm{OH}=\mathrm{CH}_{4} \mathrm{O}
+
+\begin{aligned}
+& \mathrm{CH}_{4} \mathrm{O}+2 \mathrm{O}_{2} \rightarrow \frac{3}{2} \mathrm{CO}_{2}+2 \mathrm{H}_{2} \mathrm{O} \\
+& \begin{array}{llll}
+-238 & 0 & -591 & 2(-285)
+\end{array} \\
+& \Delta \mathrm{H}_{\text {combusiono, methatanol }}=-1161+238=-923 \mathrm{kJmol}-
+\end{aligned}
+
+
+Ethanol: 
+
+
+
+\begin{array}{ccc}
+\mathrm{C}_{2} \mathrm{H}_{6} \mathrm{O}+3 \mathrm{O}_{2} & \rightarrow & 2 \mathrm{CO}_{2}+3 \mathrm{H}_{2} \mathrm{O} \\
+-277 & 0 & 2(-394) 3(-285) \\
+\Delta \mathrm{H}_{\text {combusiono, chtamal }} & =-1643+277=-1366 \mathrm{kJmol}^{-}
+\end{array}
+
+
+Propanol: 
+
+
+
+\begin{aligned}
+& \mathrm{C}_{3} \mathrm{H}_{3} \mathrm{O}+\frac{\frac{9}{2}}{2} \mathrm{O}_{2} \quad \rightarrow \quad 3 \mathrm{CO}_{2}+4 \mathrm{H}_{2} \mathrm{O} \\
+& \begin{array}{llll}
+-337 & 0 & 3(-394) & 4(-285)
+\end{array} \\
+& \Delta \mathrm{H}_{\text {cambusion, propel }}=-2322+377=-1985 \mathrm{kJmol}
+\end{aligned}
+
+
+
+ 
+ 
+
+
+ 
+ 
+
+Average 
+ of combustion for 
+\alpha
+\mathrm{F}[
+\mathbf{F}[4
+\mathbf{T}
+\alpha
+\alpha
+\mathbf{T}
+\mathbf{T}
+\mathbf{F}
+\mathbf{T}
+\mathbf{T}
+\mathrm{pH}
+\mathrm{pH}
+\mathbf{T}
+\mathbf{F}
+\mathrm{pH}
+\mathbf{F}
+\mathrm{pH}
+N_{2}
+\frac{360}{20}=18^{\circ}
+\frac{360}{30}=12
+c
+0.3 \mathrm{c}
+0.8 \mathrm{c}
+0.1 \mathrm{c}
+0.5 \mathrm{c}
+0.5 \mathrm{c}
+1 \mathrm{c}
+\beta-
+\mathrm{A}(3,1), \mathrm{B}(3,5), \mathrm{C}(-3,5)
+\mathrm{D}(-3,1)
+(0,3)
+\overline{A C}
+\overline{B D}
+
+\left(\frac{-3+3}{2}, \frac{5+1}{2}\right) \equiv(0,3)
+
+\mathrm{A}(3,2), \mathrm{B}(-3,5)
+\mathrm{C}(5,7)
+\mathrm{ABCD}
+\mathrm{D}
+(11,4)
+\overrightarrow{B C}=\overrightarrow{A D}
+
+\begin{gathered}
+\overrightarrow{B C}=\left(\frac{5}{7}\right)-\left(\frac{-3}{5}\right)=\left(\frac{8}{2}\right) \\
+\overrightarrow{A D}=\left(\frac{x}{y}\right)-\left(\frac{3}{2}\right)=\left(\frac{x-3}{y-2}\right)=\left(\frac{8}{2}\right) \Rightarrow x=8+3=11, y=2+2=4
+\end{gathered}
+
+\mathrm{C}_{1}, \mathrm{C} 2, \mathrm{C}_{3}, \ldots \mathrm{C}_{x}
+\mathrm{C}
+\mathrm{C}_{1}=\mathrm{C}_{\text {; }}
+\mathrm{C}_{2}=\mathrm{C} / 2 ; \mathrm{C}_{3}=\mathrm{C} / 3 ; \ldots \mathrm{C}_{20}=\mathrm{C} / 20
+20 \mathrm{~V}
+\mathrm{C}=420 \mu \mathrm{F}
+\mathrm{n}
+\mathrm{n}(\mathrm{n}+1) / 2
+\mathrm{C}_{\mathrm{r}}
+\frac{1}{C_{T}}=\frac{1}{C_{1}}+\frac{1}{C_{2}}+\frac{1}{C_{3}}+\ldots+\frac{1}{C_{20}}
+\frac{1}{C_{T}}=\frac{1}{C}+\frac{2}{C}+\frac{3}{C}+\ldots+\frac{20}{C}
+\frac{1}{C_{T}}=\frac{1}{C}(1+2+3+\ldots+20)
+\frac{1}{C_{T}}=\frac{1}{C} \times \frac{20(20+1)}{2}
+\frac{1}{C_{T}}=\frac{1}{C} \times 210
+\mathrm{C}=420^{\mu} \mathrm{F}
+\frac{1}{C_{T}}=\frac{210}{420 \mu F}
+C_{T}=2 \mu F
+U=\frac{1}{2} C_{T} V^{2}
+U=\frac{1}{2} \times 2 \times 10^{-6} \times 20^{2}
+U=400 \times 10^{-6} \mathrm{~J}
+U=4.0 \times 10^{-4} \mathrm{~J}
+100 \cdot \mathrm{C}
+\mathbf{F}
+\mathbf{F}
+\mathbf{F}
+\mathbf{T}
+\mathbf{T}
+\mathbf{F}
+\mathbf{F}[
+]
+\mathbf{F}\left[\mathrm{H}_{2}\right.
+\mathrm{Cl}_{2}
+]
+\mathrm{CuSO}_{4}
+\mathbf{T}
+\mathbf{T}
+\mathbf{F}
+\mathrm{Q}
+\mathrm{R}
+\mathrm{Q}+\mathrm{e} \rightarrow \mathrm{Q}
+\mathrm{R}+\mathrm{e} \rightarrow \mathrm{R}
+Q
+\mathrm{Q}
+\mathrm{R}
+\mathrm{Q}+\mathrm{e} \rightarrow \mathrm{Q}
+\mathrm{R}+\mathrm{e} \rightarrow \mathrm{R}
+\mathrm{Q} / \mathrm{Q}
+\mathrm{R} / \mathrm{R}
+\mathrm{R}
+\mathrm{Q}
+\mathrm{Q}
+\mathrm{R}
+3^{\text {rd }}
+\left(3 \mathrm{~s}^{2} 3 \mathrm{p}^{6} 3 \mathrm{~d}^{\mathrm{1}}\right)
+\mathrm{s}
+\mathrm{p}
+\mathrm{s}
+x^{3}+3 x^{2}-4 x-12
+(x-2)(x+2)(x+3)
+x^{3}-3 x^{2}-4 x-12=x^{2}(x+3)-4(x+3)=\left(x^{2}-4\right)(x+3)
+
+=(x-2)(x+2)(x+3)
+
+x^{4}-3 x^{2}-4
+(x-2)(x+2)\left(x^{2}+1\right)
+\mathrm{x}^{4}-3 \mathrm{x}^{2}-4=\left(\mathrm{x}^{2}-4\right)\left(\mathrm{x}^{2}+1\right)=(\mathrm{x}-2)(\mathrm{x}+2)\left(\mathrm{x}^{2}+1\right)
+9(\sqrt[3]{24})-\sqrt[3]{81}+(\sqrt[3]{375})
+20(\sqrt[3]{3})
+9 \times 2(\sqrt[3]{3})-3(\sqrt[3]{3})+\sqrt[3]{125 \times 3}=(18-3+5)(\sqrt[3]{3})=20(\sqrt[3]{3})
+\sqrt[3]{16}+5(\sqrt[3]{2})-2(\sqrt[3]{54})
+\sqrt[3]{2}
+\sqrt[3]{8 x 2}+5(\sqrt[3]{2})-2(\sqrt[3]{27 x 2})=2(\sqrt[3]{2})+5(\sqrt[3]{2})-6(\sqrt[3]{2})=\sqrt[3]{2}
+\mathrm{NH}^{3}
+70 \mathrm{~km} / \mathrm{h}
+90 \mathrm{~km} / \mathrm{h}
+\mathrm{CO}_{2}
+\mathrm{S}_{2}
+\mathrm{CO}_{2}
+\mathrm{SO}_{2}
+\mathrm{CCl}_{4}
+\mathrm{CCl}_{4}
+\mathrm{C}-\mathrm{Cl}
+\mathrm{CHCl}_{3}
+\mathrm{A}(2,5)
+\mathrm{B}(-2,2)
+25 \mathrm{sq}
+\lfloor A B\rfloor|A B|^{2}=(2+2)^{2}+(5-2)^{2}=16+9=25
+\mathrm{A}(-1,4)
+\mathrm{B}(3,8)
+|A B|^{2}=(3+1)^{2}+(8-4)^{4}=16+16=32
+1 / 2
+=1 / 2(32)=16
+x(4 x+3)<(2 x+1)^{2}<(2 x+1)
+x>-1
+4 \mathrm{x}^{2}+3 \mathrm{x}<4 \mathrm{x}^{2}+4 \mathrm{x}+1
+3 \mathrm{x}<4 \mathrm{x}+1
+0<\mathrm{x}+1
+\mathrm{x}>-1
+x(9 x-5)<(3 x-1)^{2}
+\underline{x<1}
+\quad 9 x^{2}-5 x<9 x^{2}-6 x+1
+-5 x<<-6 x+1
+\mathrm{x}<1
+5^{2 x}-5^{x+1}+4=0
+5^{2 x}-5^{x+1}+4=\left(5^{x}\right)^{2}-5\left(5^{x}\right)+4=0
+5^{x}
+\therefore y^{2}-5 y+4=0
+\therefore(y-4)(y-1)=0 \Rightarrow y=4,1
+5^{*}=4 \Rightarrow{ }_{\mathrm{x}}=\frac{\log 4}{\log 5} \frac{\log 4}{\log 5}, 5^{*}=1^{\Rightarrow x} \Rightarrow 1=0
+x=\frac{\log 4}{\log 5} \frac{\log 4}{\log 5}, \quad x=0
+x=\log \frac{4}{5} \frac{4}{5}
+
+\begin{aligned}
+& \log x+\log y=1 \\
+& x+y=11
+\end{aligned}
+
+\log \mathrm{x}+\log \mathrm{y}=1 \Rightarrow x \Rightarrow \log \mathrm{xy}=1
+\mathrm{xy}=10 \Rightarrow \Rightarrow \mathrm{y}=\frac{10}{x}
+x+y=11
+\therefore \mathrm{x}+\frac{10}{x}=11
+x^{2}-11 x+10=0
+(\mathrm{x}-1)(\mathrm{x}-10)=0
+x=1 \quad
+\quad x=10
+\mathrm{x}=1 \Rightarrow \mathrm{y}=10 \quad \mathrm{x}=10 \Rightarrow \Rightarrow \mathrm{y}=1
+x=1, y=10 \quad
+\quad x=10, y=1
+10 \%
+\mathbf{F}[
+1 \%]
+\mathbf{T}
+\mathbf{T}
+\mathbf{F}
+\mathbf{T}
+\mathrm{N}_{2}
+\mathbf{F}
+\mathbf{F}
+\mathbf{T}
+\mathrm{A}+\mathrm{B} \rightarrow \mathrm{C}+\mathrm{D}
+\mathrm{Kp}
+\mathrm{Kc}
+\mathbf{T}\left[\mathrm{Kp}=\mathrm{Kc}(\mathrm{RT})^{\Delta \mathrm{n} }\right.
+\left.\Delta \mathrm{n}=0\right]
+\mathbf{T}
+x^{2}+3 y^{2}-4 x+2 y=10
+\mathbf{F}
+(\mathrm{KBr})
+\mathrm{OH}
+\mathrm{OH}
+\mathrm{OH}
+12 \mathrm{~km}
+4 \mathrm{~cm}
+1: 300,000
+12 \mathrm{~km}=12 \times 100,000 \mathrm{~cm}
+1: 3000,000
+3 \mathrm{~cm}
+7.5 \mathrm{~km}
+3 \mathrm{~cm}
+750,000 \mathrm{~cm}
+750,000 / 100,000 \mathrm{~km}=7.5 \mathrm{~km}
+45^{\circ}
+20^{\circ}
+R
+70^{\circ}
+-2 x^{2}+5 x-4=0
+=5 / 2
+=2
+-\mathrm{b} / \mathrm{a}=-5 /-2=5 / 2
+=\mathrm{c} / \mathrm{a}=-4 /-2=2
+\frac{1}{2} x^{2}-\frac{3}{4} x-\frac{1}{4}=0
+=3 / 2
+=-1 / 2
+2 x^{2}-3 x-1=0
+=-b / a=3 / 2
+=-1 / 2
+r
+3 \pi r^{2}
+=2 \pi r^{2}
+
+\begin{aligned}
+& =\pi r^{2} \\
+& =2 \pi r^{2}+\pi r^{2}=3 \pi r^{2}
+\end{aligned}
+
+\mathrm{r}
+\mathrm{h}
+\pi r^{2}+\pi r \sqrt{r^{2}+h^{2}}
+\pi r \quad\left(r+\sqrt{r^{2}+h^{2}}\right)
+l=\sqrt{r^{2}+h^{2}}
+=\pi r l=\pi r \sqrt{r^{2}+h^{2}}
+=\pi r^{2}
+=\pi r^{2}+\pi r \sqrt{r^{2}+h^{2}}
+\mathrm{C}^{14}
+
+{ }_{7}^{14} N+n{ }_{6}^{14} C+{ }_{1}^{0} P
+
+\frac{5}{9}
+(\mathrm{BW}
+)=\frac{4}{9} \times \frac{5}{8} \times \frac{5}{9} \times \frac{4}{8}=\frac{5}{9}
+\frac{4}{9}
+\mathrm{P}(\mathrm{BB}
+\mathrm{WW})=\frac{4}{9} \times \frac{3}{8} \times \frac{5}{9} \times \frac{4}{8}=\frac{4}{9}
+x
+\mathbf{T}
+\mathrm{HCl}
+\mathrm{m} / \mathrm{z}=36.5
+[\mathrm{Cl}=35.5
+]
+\mathrm{HCl}
+\mathrm{m} / \mathrm{e}=36
+\mathbf{T}\left[{ }^{35} \mathrm{Cl}+{ }^{1} \mathrm{H}\right.
+\left.{ }^{35} \mathrm{Cl+}{ }^{2} \mathrm{H}\right]
+\mathrm{a}^{2} < \mathrm{b}^{2}
+a < \mathrm{b}
+x+2=x
+\mathbf{T}
+\mathbf{T}
+r
+t=\frac{b^{2}+4 r}{4 a r}
+\frac{b^{2}}{4(a t-1)}
+4 a r t=\mathrm{b}^{2}+4 \mathrm{r} \Rightarrow \mathrm{r}(4 \mathrm{at}-4)=\mathrm{b}^{2} \Rightarrow \mathrm{r}=\frac{b^{2}}{4(a t-1)}
+g
+t=\sqrt{\left(\frac{2 s}{g}\right)}
+g=\frac{2 s}{t^{2}}
+t^{2}=\frac{2 s}{g} \Rightarrow g=\frac{2 s}{t^{2}}
+0.5 \mathrm{~m}
+0.8 \mathrm{~m}
+0.5 \mathrm{~m}
+0.5 \mathrm{~m}
+\mathrm{HCl}
+\mathrm{HNO}_{3}
+\mathrm{HCl}
+\mathrm{HNO}_{3}
+\mathrm{H}^{+}{ }_{(a \mathrm{a})}+\mathrm{OH}_{(\mathrm{(a)})} \rightarrow \mathrm{H}_{2} \mathrm{O}, \mathrm{Br}
+\sqrt{\left(\frac{x^{2} y^{4}}{z^{6} t^{8}}\right)}
+\frac{x y^{2}}{z^{3} t^{4}}
+\sqrt[3]{\frac{x^{6} y^{9}}{z^{12} t^{15}}}
+\frac{x^{2} y^{3}}{z^{4} t^{5}}
+\mathrm{KMnO}_{4}
+^{\text {. }}
+
+\begin{aligned}
+& \mathrm{OH} \quad \mathrm{OH} \\
+& \stackrel{|}{C} \mathrm{H}_{2}-\stackrel{\mid}{C} \mathrm{H}-\mathrm{CH}_{2} \mathrm{CH}_{3}
+\end{aligned}
+
+\mathrm{Cr}_{2} \mathrm{O}_{7}^{2-}
+15 \mathrm{~cm}
+10 \mathrm{~cm}
+
+\left[\mathrm{s}=\mathrm{r} \theta=\frac{s}{r}=\frac{15}{10}=1.5 \text { radians }\right]
+
+10 \mathrm{~cm}
+50 \mathrm{~cm}
+
+\left[\mathrm{A}=\frac{1}{2} r^{2} \theta=\frac{1}{2} 10^{2} \times 1=50 \mathrm{~cm}^{2}\right.
+
+\mathrm{A}
+\cos \mathrm{A}=\frac{1}{3}
+\cos 2 \mathrm{~A}
+-\frac{7}{9}
+\operatorname{Cos} 2 \mathrm{~A}=\cos ^{2} A \sin ^{2} \mathrm{~A}=\cos ^{2} A-\left(1-\cos ^{2} A\right)
+
+\begin{aligned}
+& =2 \cos ^{2} A-1 \\
+& =2 . \frac{1}{9}-1=-\frac{7}{9}
+\end{aligned}
+
+\mathrm{A}
+\tan \mathrm{A}=\frac{3}{4}
+\sin 2 \mathrm{~A}
+\frac{24}{25}
+\sin 2 A=2 \sin A \cos A
+
+\begin{aligned}
+\operatorname{Cos} A= & \frac{4}{5} \\
+\operatorname{Sin} A & =\frac{3}{5} \\
+& =2 \times \frac{3}{5} \times \frac{4}{5}=\frac{24}{25}
+\end{aligned}
+
+\left(x+\frac{1}{x}\right)^{2}
+x^{2}+\frac{1}{x}=\left(x+\frac{1}{x}\right)^{2}-2
+
+3\left(x^{2}+\frac{1}{x^{2}}\right)-16\left(x+\frac{1}{x}\right)+26=0
+
+
+\begin{aligned}
+& \left(x+\frac{1}{x}\right)^{2}=x^{2}+2 x\left(\frac{1}{x}\right)+\frac{1}{x^{2}}=x^{2}+\frac{1}{x^{2}}+2 \\
+& \therefore x^{2}+\frac{1}{x^{2}}=\left(x+\frac{1}{x}\right)^{2}-2 \\
+& 3\left(x^{2}+\frac{1}{x^{2}}\right)-16\left(x+\frac{1}{x}\right)+26=3\left(\left(x+\frac{1}{x}\right)^{2}-2\right]-16\left(x+\frac{1}{x}\right)+26=0 \\
+& \text { Let } y=x+\frac{1}{x} \\
+& \therefore 3 y^{2}-6-16 y+26=0 \\
+& 3 y^{2}-16 y+20=0 \\
+& (3 y-10)(y-2)=0 \\
+& \therefore y=2, \quad \frac{10}{3}
+\end{aligned}
+
+
+For 
+
+
+
+For 
+
+
+
+
+
+
+\mathbf{T}
+\mathbf{F}
+\mathbf{F}[(\mathrm{nM} / \mathrm{V})=
+=(\mathrm{P} / \mathrm{RT})]
+\mathbf{T}
+\mathbf{F}[
+3+5=8]
+\mathbf{T}
+\mathrm{P}
+\mathbf{T}
+\mathbf{F}
+\mathbf{T}
+\mathbf{T}
+\mathbf{T}
+\mathrm{CaSO}_{4} * 0.5 \mathrm{H}_{2} \mathrm{O}
+\mathrm{CaSO}_{4} * 2 \mathrm{H}_{2} \mathrm{O}
+0 \mathrm{~K}
+\mathbf{T}
+\mathbf{F}
+50^{\circ}
+115^{\circ}, 65^{\circ}
+\mathrm{x}
+\mathrm{y} . \mathrm{x}+\mathrm{y}
+\mathrm{x}-\mathrm{y}=50
+2 \mathrm{x}=230
+\mathrm{x}=115, \mathrm{y}=65
+50,40^{\circ}
+x+y=90,2 x+3 y=220
+
+2 x+2 y=180 \quad y=40 \text { and } x=50
+
+3 \mathrm{x}^{2}-\mathrm{x}-2=0
+x=1
+x=-2 / 3
+3 x^{2}-x-2=3 x^{2}-3 x+2 x-2=3 x(x-1)+2(x-1)
+\mathrm{x}=1
+\mathrm{x}=-2 / 3
+
+=(3 x+2)(x-1)=0
+
+2 x^{2}+4 x-6=0
+x=-3
+x=1
+2 x^{2}+4 x-6=2\left(x^{2}+2 x-3\right)=2(x+3)(x-1)=0
+\mathrm{x}=-3
+\mathrm{x}=1
+\quad 1 \mathrm{kgm} / \mathrm{s}^{2}
+\ldots
+1 \mathrm{~N} / \mathrm{m}^{2}
+(\mathrm{Cl})
+\mathrm{O}+\mathrm{O}_{3} \stackrel{\mathrm{Cl}}{\longrightarrow} 2 \mathrm{O}_{2}
+(2,1)
+\mathrm{A}(1,2)
+\mathrm{B}(3,-2)
+Y=\underline{1 / 2} \mathrm{x}
+2 \mathrm{y}=\mathrm{x}
+\mathrm{A}(1,2)
+\mathrm{B}(3,-2) /(3-1)
+(-2-2) /(3-1)=-2
+1 / 2
+(2,1)
+y-1=1 / 2(x-2)
+y=1 / 2 x
+\mathrm{A}(3,-3)
+2 \mathrm{x}+\mathrm{y}=4
+Y=-2 x+3
+2 x+y=3
+\mathrm{A}(3,-3)
+y+3=-2(x-3)
+Y=-2 x+3
+\underline{\mathrm{U}}
+\mathrm{A}(2,-4)
+B(-3,-7)
+\underline{U}
+u=-5 i-3 j
+-(5 i+3 j)
+\mathrm{u}=\left(\begin{array}{l}-3 \\ -7\end{array}\right)-\left(\begin{array}{l}2 \\ -4\end{array}\right)=\left(\begin{array}{l}-5 \\ -3\end{array}\right)
+\mathrm{u}=2 \mathrm{i}-5 \mathrm{j}
+\mathrm{A}
+\mathrm{B}(-3,3)
+\mathrm{A}(-5,8)
+\left(\begin{array}{l}2 \\ -5\end{array}\right)=\left(\begin{array}{l}-3 \\ 3\end{array}\right)-\left(\begin{array}{l}x \\ y\end{array}\right) \Rightarrow\left(\begin{array}{l}x \\ y\end{array}\right)=\left(\begin{array}{l}-3 \\ 3\end{array}\right)-\left(\begin{array}{l}2 \\ -5\end{array}\right)=\left(\begin{array}{l}-5 \\ 8\end{array}\right)
+A
+B
+\mathrm{P}(\mathrm{A})
+S=\{1,2,3,4,5\}
+\mathrm{A}=\{1,2,3\} \quad \mathrm{B}=\{1,3,5\} \quad \mathrm{A} \cap \mathrm{B}=\{1,3\} \quad \mathrm{A} \cup \mathrm{B}=\{1,2,3,5\}
+\quad \mathrm{P}(\mathrm{A})=\frac{n(A)}{n(S)}=\frac{3}{5}
+A
+B
+\mathrm{P}(\mathrm{B})
+\quad \mathrm{P}(\mathrm{B})=\frac{n(B)}{n(S}=\frac{3}{5}
+A
+B
+\mathrm{P}(\mathrm{A} \cap \mathrm{B})
+\quad \mathrm{P}(\mathrm{A} \cap \mathrm{B})=\frac{n(A \cap B)}{n(S)}=\frac{2}{5}
+A
+B
+\mathrm{P}(\mathrm{A} \cup \mathrm{B})
+\quad \mathrm{P}(\mathrm{A} \cup \mathrm{B})=\frac{n(A \cup B)}{n(S)}=\frac{4}{5}
+A
+B
+\mathrm{P}\left(\mathrm{A}^{\mid} \mathrm{B}\right)
+\quad \mathrm{P}(\mathrm{A} \cup \mathrm{B})=\frac{P(A \cap B)}{P(B)}=\frac{2 / 5}{3 / 5}=\frac{2}{3}
+\mathbf{F}
+\mathrm{Cu}
+\mathbf{F}
+\frac{1}{3} \pi{\mathrm{r}^{2} \mathrm{~h}}
+\mathbf{T}
+\mathbf{T}
+\mathrm{NaOH}
+\mathrm{Cu}
+\mathbf{F}
+\left.\operatorname{Tan} 30^{\circ}=\sqrt{3}\right]
+\mathbf{F}\left[\operatorname{Tan} 30^{\circ}=1 / \sqrt{3}\right.
+\mathbf{F}
+\mathrm{Mg}^{+}
+\mathrm{OH}
+\mathrm{OH}
+\mathrm{OH}
+12 \mathrm{~km}
+4 \mathrm{~cm}
+1: 300,000
+12 \mathrm{~km}=12 \times 100,000 \mathrm{~cm}
+1: 3000,000
+1: 250,000
+3 \mathrm{~cm}
+7.5 \mathrm{~km}
+3 \mathrm{~cm}
+750,000 \mathrm{~cm}
+750,000 / 100,000 \mathrm{~km}=7.5 \mathrm{~km}
+45^{\circ}
+\mathrm{R}
+-2 x^{2}+5 \mathrm{x}-4=0
+=5 / 2
+=2
+-\mathrm{b} / \mathrm{a}=-5 /-2=5 / 2
+=\mathrm{c} / \mathrm{a}=-4 /-2=2
+\frac{1}{2} x^{2}-\frac{3}{4} x-\frac{1}{4}=0
+=3 / 2
+=-1 / 2
+2 x^{2}-3 x-1=0
+=-b / a=3 / 2
+=-1 / 2
+r
+3 \pi r^{2}
+=2 \pi r^{2}
+
+=\pi r^{2}
+
+
+\text { Total surface area of a hemisphere } \quad=2 \pi r^{2}+\pi r^{2}=3 \pi r^{2}
+
+\mathrm{r}
+\mathrm{h}
+\pi r^{2}+\pi r \sqrt{r^{2}+h^{2}}
+\pi r \quad\left(\mathrm{r}+\sqrt{r^{2}+h^{2}}\right)
+l=\sqrt{r^{2}+h^{2}}
+=\pi r l=\pi r \sqrt{r^{2}+h^{2}}
+=\pi r^{2}
+=\pi r^{2}+\pi r \sqrt{r^{2}+h^{2}}
+\mathrm{C}^{14}
+{ }_{7}^{14} N+n \longrightarrow{ }_{6}^{14} C+{ }_{1}^{0} P
+\frac{5}{9}
+=\frac{4}{9} \times \frac{5}{8} \times \frac{5}{9} \times \frac{4}{8}=\frac{5}{9}
+\frac{4}{9}
+P(B B
+W W)=\frac{4}{9} \times \frac{3}{8} \times \frac{5}{9} \times \frac{4}{8}=\frac{4}{9}
+14.4 \mathrm{~g}
+\mathrm{H}_{2} \mathrm{SO}_{4}
+100 \mathrm{~cm}^{3}
+250 \mathrm{~cm}^{3}
+25 \mathrm{~cm}^{3}
+20 \mathrm{~cm}^{3}
+0,20 \mathrm{moldm}^{-3}
+\mathrm{KMnO}_{4}
+56.0]
+\mathrm{MnO}_{4}^{-}+5 \mathrm{Fe}^{2+}+8 \mathrm{H}^{+} \rightarrow \mathrm{Mn}^{2+}+5 \mathrm{Fe}^{3+}+4 \mathrm{H}_{2} \mathrm{O}
+0.20 \mathrm{moldm}^{-3} \quad \mathrm{M}
+20 \mathrm{~cm}^{3} \quad 25 \mathrm{~cm}^{3}
+\frac{20 \times 0.20}{25 \times M}=\frac{1}{5}
+\therefore M=\frac{5 \times 20 \times 0.20}{25}=0.80
+^{-3}
+250 \mathrm{~cm}^{3}
+\frac{0.8}{4}=0.20
+250 \mathrm{~cm}^{3}
+0.20 \times 56=11.2 \mathrm{~g}
+\% \mathrm{Fe}=\frac{11.2 \times 100}{14.4}=77.78 \%
+\mathbf{T}
+x
+\mathbf{T}
+\mathrm{HCl}
+\mathrm{m} / \mathrm{z}=36.5
+[\mathrm{Cl}=35.5
+]
+\mathrm{HCl}
+\mathrm{m} / \mathrm{e}=36
+\mathbf{T}\left[{ }^{35} \mathrm{Cl}+{ }^{1} \mathrm{H}\right.
+\left.{ }^{35} \mathrm{Cl}+{ }^{2} \mathrm{H}\right]
+\mathbf{T}
+\mathrm{a}^{2}<\mathrm{b}^{2}
+\mathrm{a}<\mathrm{b}
+\mathbf{T}
+\mathbf{T}
+\mathrm{x}+2=\mathrm{x}
+2,5,7,12,19 \ldots
+2+5=7,5+7=12,7+12=19
+12+19=31
+1,1,2,3,5,8 \ldots
+1+1=2,1+2=3,2+3=5,3+5=8
+5+8=13
+(1
+n
+3 n
+
+3 n-n=2 n=26, \text { hence } n=13
+
+23,25,27
+\mathrm{n}, \mathrm{n}+2, \mathrm{n}+4
+
+\mathrm{n}+(\mathrm{n}+2)+(\mathrm{n}+4)=75 \text {, hence } 3 \mathrm{n}+6=75
+
+
+3 n=75-6=69 ; n=23 \text {. Numbers are } 23,25 \text {, and } 27
+
+\mathrm{Na}_{2} \mathrm{CO}_{3}
+\mathrm{NaHCO}_{3}
+\mathrm{NH}_{4} \mathrm{Cl}
+\left.\mathrm{NH}_{3}\right)
+\mathrm{C}_{2} \mathrm{H}_{4} \mathrm{O}_{2}
+\mathrm{H}_{2} \mathrm{CO}_{3}
+\mathrm{AlCl}_{3}
+\mathrm{AlCl}_{3}
+\mathrm{Al}(\mathrm{OH})_{3}
+\sqrt[3]{16 x^{4} y}-3 x(\sqrt[3]{2 x y})+5\left(\sqrt[3]{-16 x y^{4}}\right)
+(-x-10 y) \sqrt[3]{2 x y}
+\left(\sqrt[3]{8 x^{3}}\right)(\sqrt[3]{2 x y})-3 x(\sqrt[3]{2 x y})+5\left(\sqrt[3]{-8 y^{3}}\right)(\sqrt[3]{2 x y})
+
+=(2 x-3 x-10 y) \sqrt[3]{2 x y}
+
+8 x y-\sqrt{25 x^{2} y^{2}}+\sqrt[3]{8 x^{3} y^{3}}
+5 x y
+8 x y-5 x y+2 x y=5 x y
+\mathrm{Na}_{2} \mathrm{CO}_{3} /
+\operatorname{Borax}\left(\mathrm{Na}_{2} \mathrm{~B}_{4} \mathrm{O}_{10} .10 \mathrm{H}_{2} \mathrm{O}\right)
+a=2 \mathrm{i}+3 \mathrm{j}
+(3 i-2 j) / \sqrt{13}
+\mathrm{b}=3 \mathrm{i}-2 \mathrm{j}
+\mathrm{a}=2 \mathrm{i}+3 \mathrm{j}
+\frac{3 i-2 j}{\sqrt{13}} \frac{3 i-2 j}{\sqrt{13}}
+a=3 i-4 j
+(4 \mathrm{i}+3 \mathrm{j}) / 5
+0.8 \mathrm{i}+0.6 \mathrm{j}
+\mathrm{b}=4 \mathrm{i}+3 \mathrm{j}
+\mathrm{a}=3 \mathrm{i}-4 \mathrm{j}
+(4 i+3 j) / \sqrt{\left(4^{2}+3^{2}\right)}=(4 i+3 j) / 5
+x
+x
+50 \mathrm{~kg}
+0.5 \mathrm{~m}
+g=10 \mathrm{~m} / \mathrm{s}^{2}
+=1000 \mathrm{~kg} / \mathrm{m}^{3}
+U
+\mathrm{m}=
+\mathrm{g}=
+\boldsymbol{\rho}=
+\mathrm{V}=
+\mathrm{U}=\mathrm{mg} ; \boldsymbol{\rho g V}=\mathrm{mg}
+\mathrm{V}
+\mathrm{A}
+\mathrm{h}
+\boldsymbol{\rho} \mathrm{Ah}=\mathrm{m}
+\mathrm{h}=\mathrm{m} / \boldsymbol{\rho} \mathrm{A}
+\mathrm{h}=50 /(1000 \times 0.5 \times 0.5)
+\mathrm{h}=50 / 250
+\mathrm{h}=0.2 \mathrm{~m}
+
+\begin{aligned}
+& h^{\prime}=0.5-0.2 \\
+& h^{\prime}=0.3 \mathrm{~m}
+\end{aligned}
+
+\mathrm{N}_{2} \& \mathrm{O}_{2}
+\mathrm{N}_{2} \& \mathrm{H}_{2}
+\mathbf{F}
+\mathbf{T}
+\mathbf{F}
+\mathbf{T}
+\mathbf{F}
+\mathbf{T}
+\mathbf{T}
+\mathbf{T}
+\operatorname{Cos}\left(180^{\circ}-\mathrm{x}\right)=\cos \mathrm{x}
+\mathbf{F}\left[\operatorname{Cos}\left(180^{\circ}-\mathrm{x}\right)=-\cos \mathrm{x}\right]
+\mathbf{F}
+\mathbf{T}
+Y=\sqrt{\left(x^{2}-1\right)}
+\mathrm{x} \geq \geq 1
+\mathbf{y}=\sqrt{\left(x^{2}+1\right)}
+\mathrm{x} \geq \geq
+x^{2}=y^{2}-1
+x
+y
+
+y^{2}=x^{2}+1 \text {, hence } \mathrm{y}=\sqrt{\left(x^{2}+1\right)} \text { for } \mathrm{x} \geq \geq 0 \text {. (Solve for } \mathrm{y} \text { ) }
+
+\mathrm{y}=\mathrm{x}^{2}+1
+\geq \geq
+y=\sqrt{(x-1)}
+x \geq \geq 1
+x=y^{2}+1
+x
+y
+
+\begin{aligned}
+& \mathrm{y}^{2}=\mathrm{x}-1 \text {, } \\
+& y=\sqrt{(x-1)} \text { for } \mathrm{x} \geq \geq 1 \text {. (Solve for } \mathrm{y} \text { ) }
+\end{aligned}
+
+900^{\circ}
+n
+=(n-2) 180^{\circ}
+\mathrm{n}=7
+=(7-2) 180=900
+1980^{\circ} \circ
+(n-2) 180=1980
+
+\mathrm{n}-2=1980 / 180=11
+
+
+Hence 
+\alpha, \beta
+\gamma
+\gamma
+\mathrm{CO}_{2}
+\mathrm{O}_{2}
+\mathrm{CO}_{2}
+\mathrm{O}_{2}
+\mathrm{CO}_{2}
+=
+=
+\mathrm{Cr}|\mathrm{Ni}| \mathrm{Mn}
+(c)
+5 \%
+x
+3 \%
+
+\begin{aligned}
+& (0.03) 10=(0.05)(10-x) \\
+& 30=50-5 x \\
+& 5 x=20, \text { hence } x=4
+\end{aligned}
+
+4 \%
+3 \%
+3.33 l, 31 / 3 l
+x
+4 \%
+
+\begin{aligned}
+& (0.04) 10=(x+10)(0.03) \\
+& 40=(x+10) 3 \\
+& 3 \mathrm{x}=10 \text {, hence } \mathrm{x}=10 / 3
+\end{aligned}
+
+a_{c}=v \mid r
+r
+\mathrm{SO}_{2}
+\left(\mathrm{SO}_{2}\right)
+\operatorname{ROSO}_{3}-\mathrm{Na} \mid \mathrm{K}+
+\mathrm{SO} 3 \mathrm{Na}^{+} / \mathrm{K}
+\mathrm{Mg}
+200 \mathrm{~cm}^{2}
+20 \mathrm{~cm}
+\mathrm{x}
+\mathrm{x}^{2}=200
+\mathrm{x}=10 \sqrt{2 \mathrm{~cm}}
+\mathrm{d}
+
+\mathrm{d}^{2}=(10 \sqrt{2})^{2}+(10 \sqrt{2})^{2}=400 \text { hence } \mathrm{d}=20 \mathrm{~cm}
+
+30 \mathrm{~cm}
+450 \mathrm{~cm}
+\mathrm{d}
+1 / 2 \mathrm{~d}^{2}=1 / 2\left(30^{2}\right)=1 / 2(900)=450 \mathrm{~cm}^{2}
+(1+\mathrm{kx})
+1,14 \mathrm{x}
+84 \mathrm{x}^{2}
+\mathrm{k}
+\mathrm{n}
+\mathrm{x}^{3}
+\quad(1+\mathrm{kx})^{n}=1+\mathrm{n}(\mathrm{kx})+\frac{n(n-1)}{2} \frac{n(n-1)}{2} k x^{2}+\ldots
+\therefore \therefore \quad \mathrm{nk}=14 \quad(
+\mathrm{x})
+\frac{n(n-1)}{2} \frac{n(n-1)}{2} \mathrm{k}^{2}=84 \quad\left(\right.
+\left.\mathrm{x}^{2}\right)
+\mathrm{K}=\frac{14}{n} \frac{14}{n}
+
+\begin{aligned}
+& \therefore \therefore \quad \frac{n(n-1)}{2}\left(\frac{14^{2}}{n^{2}}\right)=84 \\
+& (\mathrm{n}-1) 196=168 \mathrm{n} \\
+& \mathrm{n}(196-168)=196 \\
+& \therefore \therefore \mathrm{n}=\frac{196}{28} \frac{196}{28}=7 \\
+& \therefore \therefore \mathrm{k}=\frac{14}{7} \frac{14}{7}=2
+\end{aligned}
+
+
+For 
+, the coefficient is
+
+
+\begin{aligned}
+C_{3}\left(2^{3}\right) & =\frac{7 \times 6 \times 57 \times 6 \times 5}{6} \times \frac{\mathbf{6}}{\mathbf{6}} \times \\
+& =35 \times 8 \\
+& =280
+\end{aligned}
+
+\mathrm{IV}
+\mathrm{SO}_{2}
+\mathbf{F}
+a
+b
+|a-b|=|b-a|
+a-b
+b-
+\mathbf{T}
+a^{3}-b^{3}=(a-b)\left(a^{2}-a b+b^{2}\right)
+\mathbf{F}\left[a^{3}-b^{3}=(a-b)\left(a^{2}+a b+b^{2}\right)\right]
+\mathbf{T}
+\mathrm{SO}_{2}
+\mathbf{F}
+\mathbf{T}
+\mathbf{F}
+0{ }^{\circ} \mathrm{C}
+100 \mathrm{kPa}
+0^{\circ} \mathrm{C}
+100 \mathrm{kPa}
+\mathbf{F}
+\mathbf{F}\left[\mathrm{N}_{2} \mathrm{O}\right.
+\mathbf{T}
+x^{2}+2 x y+y^{2}
+\mathbf{T}\left[\mathrm{x}^{2}+2 \mathrm{xy}+\mathrm{y}^{2}=(\mathrm{x}+\mathrm{y})^{2}\right]
+\mathrm{T}
+\mathrm{NaOH}
+\left(\mathrm{CH}_{3} \mathrm{CO}-\mathrm{CH}_{2} \mathrm{CH}_{2} \mathrm{CH}_{3}\right.
+1 \times 10^{-6}
+1 \times 10^{3} \mathrm{Ohms}
+x
+220+x=25(11)=275
+x=275-220=55
+x
+190+x=20(12)=240
+x=240-190=50
+\mathrm{n}^{\mathrm{hi}}
+2,5,8,11, \ldots
+(3 n-1)
+\mathrm{a}=2
+\mathrm{d}=3
+
+n^{\mathrm{n}} \text { term }=a+(n-1) d=2+(n-1) 3=3 n-1
+
+n^{\text {hi }}
+1,9,25,49, \ldots
+(2 n-1)^{2}=4 n^{2}-4 n+1
+1^{2}, 3^{2}, 5^{2}, 7^{2}, \ldots
+\mathrm{a}=1, \mathrm{~d}=2
+
+n^{\text {th }} \text { term }=(2 n-1)^{2} \quad(1+(n-1) 2)^{2}
+
+5 \mathrm{~g}
+15 \mathrm{~g}
+\mathrm{NaOH}
+\mathrm{NaOH}
+\left(\mathrm{Pb}^{*}\right.
+\mathrm{Al}^{*}
+)
+=8250
+8250 / 2=4125
+4125+1750=5875
+=15,000
+\frac{x}{(x-1)(x-2)^{2}}
+\frac{x}{(x-1)(x-2)^{2}}=\frac{A}{x-1}+\frac{B}{x-2}+\frac{C}{(x-2)^{2}}
+\therefore x \equiv A(x-2)^{2}+B(x-2)(x-1)+C(x-1)
+\mathrm{x}=1 \quad 1=\mathrm{A}
+x=2 \quad 2=C
+\mathrm{x}=0 \quad 0=4 \mathrm{~A}+2 \mathrm{~B}-\mathrm{C}
+0=4+2 B-2
+2 \mathrm{~B}=-2
+\mathrm{B}=-1
+\therefore \frac{x}{(x-1)(x-2)^{2}}=\frac{1}{x-1}-\frac{1}{x-2}+\frac{2}{(x-2)^{2}}
+\mathbf{T}
+\mathbf{T}
+\mathbf{T}
+\mathbf{F}
+\mathrm{x}
+(\mathrm{x}, \mathrm{y}) \quad(-\mathrm{x}, \mathrm{y})
+\mathbf{F}(\mathrm{x}, \mathrm{y}) \quad(\mathrm{x},-\mathrm{y})]
+\mathbf{F}
+\mathbf{T}
+\mathbf{T}
+\mathbf{T}
+\mathrm{H}_{2} \mathrm{CO}_{3}
+\mathrm{CO}_{2}+\mathrm{H}_{2} \mathrm{O}
+\mathrm{H}_{2} \mathrm{COOH}
+\mathrm{Cl}
+97^{2}-87^{2}
+97^{2}-87^{2}=(97-87)(97+87)=10 \times 184=1840
+(8.6)^{2}-(1.4)^{2}
+(8.6)^{2}-(1.4)^{2}=(8.6+1.4)(8.6-1.4)=10 \times 7.2=72
+2=1 \mathrm{~s}^{2}
+\left(\begin{array}{l}x \\ y\end{array}\right) \longrightarrow\left(\begin{array}{l}x+a \\ y+b\end{array}\right)
+\left(\begin{array}{l}a \\ b\end{array}\right)
+\left(\begin{array}{l}x \\ y\end{array}\right) \longrightarrow\left(\begin{array}{l}y \\ x\end{array}\right)
+\mathrm{y}=\mathrm{x}
+25 \mathrm{~N}
+25 \mathrm{~N}
+85 \mathrm{~kg}
+25 \mathrm{~kg}
+10 \mathrm{~m} / \mathrm{s}^{2}
+250 \mathrm{~N}
+\quad \underline{\text { AA }} \frac{\text { Aa Aa }}{3 \text { normal }} \quad 1
+67 \%(66.6)
+4=50 \%
+\frac{1}{x}+\frac{1}{x+2}=\frac{3}{4}
+\mathrm{x}=2
+\mathrm{x}=-\frac{4}{3}
+
+\begin{aligned}
+& x+2+x=\frac{3 x(x+2)}{4} \\
+& 4(2 x+2)=3\left(x^{2}+2 x\right) \\
+& -8 x+8=3 x^{2}+6 x \\
+& 3 x^{2}-2 x-8=0 \\
+& 3 x^{2}-6 x+4 x-8=0 \\
+& 3 x(x-2)+4(x-2)=0 \\
+& (3 x+4)(x-2)=0 \\
+& \therefore x=2, \quad-\frac{4}{3}
+\end{aligned}
+
+6 \mathrm{x}^{2}+5 \mathrm{x}^{-1}+1=0
+\mathrm{x}=-2
+\mathrm{x}=-3
+
+\begin{aligned}
+& \frac{6}{x^{2}}+\frac{5}{x}+1=0 \\
+& 6+5 x+x^{2}=0 \\
+& x^{2}+5 x+6=0 \\
+& (x+2)(x+3)=0 \\
+& x=-2 \text { or } x=-3
+\end{aligned}
+
+\mathrm{FeS}_{2}
+\mathrm{ZnS}
+\mathrm{CO}_{2}
+\mathrm{CO}_{2}
+\mathrm{CO}_{2}
+070^{\circ}
+185^{\circ}
+115^{\circ}
+185^{\circ}-70^{\circ}=115^{\circ}
+A
+B
+330^{\circ}
+B
+A
+330^{\circ}-180^{\circ}=150^{\circ}
+\mathrm{LiAlH}_{4}
+\mathrm{NaOH}
+\ldots \ldots \ldots \ldots \ldots
+\mathbf{T}
+\mathbf{F}
+\mathbf{T}
+\mathbf{T}
+\mathbf{T}
+\mathbf{F}
+\mathrm{n}
+(180 n-360)
+\mathbf{T}
+\mathbf{F}
+\mathbf{T}
+\mathbf{T}
+\mathbf{T}
+\ldots \ldots \ldots
+\ldots \ldots \ldots \ldots(b)
+\quad
+2 \sin 75^{\circ} \cos 75^{\circ}
+1 / 2
+2 \sin 75^{\circ} \cos 750=\sin \left(75^{\circ}+75^{\circ}\right)=\sin 150^{\circ}=\sin 30^{\circ}=1 / 2
+\cos ^{2} 60^{\circ}-\sin ^{2} 60^{\circ}
+-1 / 2
+\cos ^{2} 60^{\circ}-\sin ^{2} 60^{\circ}=\cos \left(60^{\circ}+60^{\circ}\right)=\cos 120^{\circ}=-\cos 60^{\circ}=-1 / 2
+\mathrm{Kgm} / \mathrm{s} \quad
+\log x+\log 25=\log x^{3}
+x
+x=5
+\log (25 \mathrm{x})=\log \left(\mathrm{x}^{3}\right)
+25 \mathrm{x}=\mathrm{x}^{3}
+\mathrm{x}=5
+\log \left(x^{2}\right)-\log (4)=\log (2 x)
+\mathrm{x}
+x=8
+\log \left(\frac{x^{2}}{4}\right)=\log (2 \mathrm{x})
+\frac{x^{2}}{4}=2 \mathrm{x}
+\mathrm{x}=8
+60{ }^{\circ} \mathrm{C}
+3 \mathrm{~A}_{(8)}+\mathrm{B}_{(9)} \Leftrightarrow  2 \mathrm{C}_{(9)}+60 \mathrm{KJ}
+\mathrm{Kp}
+60{ }^{\circ} \mathrm{C}
+3 \mathrm{~A}_{(8)}+\mathrm{B}_{(9)} \Leftrightarrow  2 \mathrm{C}_{(9)}+60 \mathrm{KJ}
+\mathrm{C}
+\mathrm{Kp}
+\mathrm{A}
+15 \mathrm{~km} / \mathrm{hr}
+1 / 2
+90 \mathrm{~km} / \mathrm{hr}
+105 \mathrm{~km} / \mathrm{hr}
+\mathrm{v} \mathrm{km} / \mathrm{hr}
+=
+\times
+(\mathrm{V}+15) 3=\mathrm{V}\left(3 \frac{1}{2}\right)
+45=1 / 2 \mathrm{v}
+\mathrm{v}=90
+320 \mathrm{~km}
+20 \mathrm{~km} / \mathrm{hr}
+70 \mathrm{~km} / \mathrm{hr}
+90 \mathrm{~km} / \mathrm{hr}
+\mathrm{v} \mathrm{km} / \mathrm{hr}
+=
+\times
+2 \mathrm{v}+(\mathrm{v}+20) 2=320
+4 \mathrm{v}+40=320
+\mathrm{v}=70
+\mathrm{C}: \mathrm{H}=6: 6
+1: 1
+\mathrm{C}: \mathrm{H}=6: 14
+3: 7
+3 / 8
+\mathrm{A}=\{\mathrm{HHT}, \mathrm{HTH}, \mathrm{THH}\}
+2^{3} 2^{3}=8
+\mathrm{P}(\mathrm{A})=3 / 8
+1 / 3
+2 / 9
+\mathrm{A}=\{\mathrm{HHT}, \mathrm{HTH}, \mathrm{THH}\} \quad \mathrm{P}\{\mathrm{HHT}\}=1 / 3 \times 1 / 3 \times 2 / 3=2 / 27
+
+\mathrm{P}(\mathrm{A})=3(2 / 27)=2 / 9
+
+\mathrm{pH}
+\mathrm{pH}
+\mathrm{SO}_{2}
+\mathrm{NH}_{3}
+\mathrm{SO}_{2}
+\mathrm{SO}_{2}
+\mathrm{CoCl}_{3}
+\mathrm{MnBr}_{2}
+\mathrm{Al}_{2} \mathrm{O}_{3}
+40 \mathrm{~g}
+\mathrm{Br}_{2}
+\mathrm{MnBr}_{2}
+\left[\mathrm{Mn}: 55, \mathrm{Br}, 80.0\right.
+\left.\mathrm{STP}=22.4 \mathrm{dm}^{3}\right]
+\mathrm{Cl}_{2}
+\mathrm{CoCl}_{3}
+
+\begin{aligned}
+& \mathrm{MnBr}_{2}\longrightarrow \mathrm{Mn}+\mathrm{Br}_{2} \\
+& \therefore 160 \mathrm{gBr}_{2} \equiv 2 \mathrm{~F} \\
+& \therefore 40 g \equiv \frac{40}{160} \times 2 F=\frac{1}{2} F
+\end{aligned}
+
+
+but
+
+
+
+\mathrm{CoCl}_{3}
+\mathrm{MnBr}_{2}
+\mathrm{Al}_{2} \mathrm{O}_{3}
+40 \mathrm{~g}
+\mathrm{Br}_{2}
+\mathrm{MnBr}_{2}
+\left[\mathrm{Mn}: 55, \mathrm{Br}, 80.0\right.
+\left.\mathrm{STP}=22.4 \mathrm{dm}^{3}\right]
+\mathrm{MnBr}_{2}
+
+\begin{aligned}
+& 1 \mathrm{mo1Br}_{2} \equiv \equiv \equiv 1 \mathrm{mo} 1 \mathrm{MnBr}_{2} \\
+& \therefore 40 g \mathrm{gBr}_{2} \equiv \frac{40}{160}(55+160)=\frac{1}{4} \times 215=53.75 \mathrm{~g}
+\end{aligned}
+
+\mathrm{CoCl}_{3}
+\mathrm{MnBr}_{2}
+\mathrm{Al}_{2} \mathrm{O}_{3}
+40 \mathrm{~g}
+\mathrm{Br}_{2}
+\mathrm{MnBr}_{2}
+\left[\mathrm{Mn}: 55, \mathrm{Br}, 80.0\right.
+\left.\mathrm{STP}=22.4 \mathrm{dm}^{3}\right]
+\mathrm{Al}_{2} \mathrm{O}_{3}
+
+\begin{aligned}
+& \mathrm{Al}_{2} \mathrm{O}_{3} \stackrel{6 \mathrm{~F}}{\longrightarrow} 2 \mathrm{Al}+\frac{3}{2} O_{2} \\
+& \therefore \frac{1}{2} F \equiv \frac{1}{\frac{2}{6}} x \frac{3}{2} O_{2}=\frac{1}{8} O_{2}
+\end{aligned}
+
+
+Volume (STP) 
+\mathbf{T}
+\mathbf{T}
+\mathbf{T}
+\mathbf{F}
+\mathbf{T}
+\mathbf{T}
+[\mathrm{B}<\mathrm{Be}, \mathrm{O}<\mathrm{N}]
+\mathrm{D}
+\pi \mathrm{D}
+\mathbf{T}
+\mathbf{T}
+\mathbf{T}
+\mathbf{T}
+(a+b)^{2}=a^{2}+b^{2}
+\mathbf{F}\left[(a+b)^{2}=a^{2}+2 a b+b^{2}\right]
+(2 x-5 y)^{2}
+4 x^{2}-20 x y+25 y^{2}
+(2 x-5 y)(2 x-5 y)=2 x(2 x-5 y)-5 y(2 x-5 y)
+
+=4 x^{2}-10 x y-10 y x+25 y^{2}
+
+6 x^{2}+x y-15 y^{2}
+(3 x+5 y)(2 x-3 y)
+6(-15)=-90
+
+\begin{aligned}
+6 x^{2}+x y-15 y^{2} & =6 x+10 x y-9 x y-15 y^{2} \\
+& =2 x(3 x+5 y)-3 y(3 x+5 y) \\
+& =(3 x+5 y)(2 x-3 y)
+\end{aligned}
+
+0 \mathrm{~K}
+-273^{\circ} \mathrm{C}^{\circ} \mathrm{C}
+\mathrm{H}^{*} \mathrm{CL}^{-7} \mathrm{O}_{i^{*}} \quad[\mathrm{Cl}
+]
+\mathrm{CH}_{3} \mathrm{OH}
+\mathrm{CH}_{3} \mathrm{OH}=\mathrm{CH}_{4} \mathrm{O}_{2} \quad \mathrm{C}=-2
+\begin{array}{lcll}\text { Painter } & 10 & 1 / 10 & \\ \text { Painter +assistant } & 6 & 1 / 6 & 1 / 10+1 / \mathrm{T}=1 / 6 \\ \text { Assistant } & \mathrm{T} & 1 / \mathrm{T} & 1 / \mathrm{T}=1 / 6-1 / 10=(10-6) / 60, \mathrm{~T}=15\end{array}
+\begin{array}{lcll}\text { Edem } & 20 & 1 / 20 & \\ \text {Mawutor } & 30 & 1 /30 & 1 / 20+1 / \mathrm{30}=1 / T \\ \text {Edem+ Mawutor} & \mathrm{T} & 1 / \mathrm{T} \\
+hence \\ T =12\end{array}
+75 \mathrm{~km} / \mathrm{h}
+75 \mathrm{~km} / \mathrm{h}
+75 \mathrm{~km} / \mathrm{h}
+100 \mathrm{~km} / \mathrm{h}
+\mathrm{A}
+\mathrm{B}
+\mathrm{P}(\mathrm{A})=0.7, \mathrm{P}(\mathrm{B})=0.6
+\mathrm{P}(\mathrm{A} \cap \cap \mathrm{B})=0.5
+\mathrm{P}(\mathrm{AUB})
+\mathrm{P}(\mathrm{AUB})=\mathrm{P}(\mathrm{A})+\mathrm{P}(\mathrm{B})-\mathrm{P}\left(\mathrm{A}^{\cap} \cap \mathrm{B}\right)=0.7+0.6-0.5=0.8
+\mathrm{A}
+\mathrm{B}
+\mathrm{P}(\mathrm{A})=0.7, \mathrm{P}(\mathrm{B})=0.6
+\mathrm{P}(\mathrm{A} \cap \cap \mathrm{B})=0.5
+\mathrm{P}(\mathrm{A} \mid \mathrm{B})
+\frac{5}{6}\quad 0.833
+P(A \mid B)=\frac{P(A \cap B)}{P(B)}=\frac{0.5}{0.6}=\frac{5}{6}
+0.05 \mathrm{~m}
+50 \%
+300 \mathrm{~K}
+1.0 \times 10^{-4}
+\mathrm{K}^{-1}
+l_{1}
+1_{0}
+T_{1}
+T_{0}
+\alpha=
+\frac{l_{1}-l_{0}}{l_{0}}=\alpha\left(T_{1}-T_{0}\right)
+l_{1}-0.05=1.0 \times 10^{-4}(0.05)\left(\left[0.5 T_{0}+T_{0}\right]-T_{0}\right)
+l_{1}-0.05=1.0 \times 10^{-4}(0.05)(0.5 \times 300)
+l_{1}=1.0 \times 10^{-4}(0.05)(0.5 \times 150)+0.05
+l_{1}=0.00075+0.005
+=\underline{0.05075 m}
+\mathbf{T}
+\mathbf{T}
+\mathbf{T}
+720^{\circ}
+\mathbf{T}
+\alpha
+\alpha
+\mathbf{T}
+\mathbf{T}
+\mathbf{F}
+\mathbf{F}
+\mathbf{T}
+\mathbf{T}
+\mathbf{F}
+\mathbf{T}
+14 \mathrm{~cm}
+\pi=22 / 7)
+2,156 \mathrm{~cm}^{3}
+\mathrm{V}=\pi r^{2} h=(22 / 7) \times 7^{2} \times 14=22 \times 98=2156 \mathrm{~cm}^{3}
+21 \mathrm{~cm}
+\pi=22 / 7
+1,078 \mathrm{~cm}^{3}
+\mathrm{V}=(1 / 3) \pi r^{2} h=(1 / 3)(22 / 7) 7^{2}(21)=22 \times 49=1078
+x
+|2 x-3|<7
+2 x-3
+(2 x-3)<7
+\{x:-2<x<5\}
+|2 x-3|<7
+-7<2 x-3<7
+-4<2 \mathrm{x}<10
+-2<\mathrm{x}<5
+x
+|3 x-5|>4
+\{x: x<1 / 3
+\quad x>3\}
+|3 x-5|<4
+3 x-5>4
+3 x-5<-4
+3 x>9
+3 x<1
+
+\mathrm{x}>3 \text { or } x<1 / 3 \text { (divide both sides by } 3 \text { ) }
+
+7^{\text {th }}
+8^{\text {ti }}
+9^{\text {ti }}
+\mathrm{H}_{2} \mathrm{SO}_{4}
+\mathrm{Fe}_{2}\left(\mathrm{SO}_{4}\right)_{3}
+\mathrm{Fe}_{2}\left(\mathrm{SO}_{4}\right)_{3}
+\mathrm{Pb}\left(\mathrm{NO}_{3}\right)_{2}
+\mathrm{PbSO}_{4}
+\mathrm{C}-14
+\mathrm{C}-14
+20 \%
+10 \%
+\%
+8 \%
+L B \frac{120}{100} \times \frac{90}{100}=L B \frac{108}{100}
+\%
+8 \%
+36 \%
+\%
+20 \%
+L^{2} \frac{100-x}{100} \times \frac{100-x}{100}=
+\frac{100-x}{100}=\frac{8}{10}
+100-x=80
+x=20
+\mathrm{Al}_{2} \mathrm{O}_{3} .2 \mathrm{H}_{2} \mathrm{O}
+\mathrm{Al}(\mathrm{OH})_{3}
+\mathrm{NaOH}
+\mathrm{SiO}_{2}
+\mathrm{NaOH}
+y
+x
+\mathrm{z}^{2}, \mathrm{y}=2
+\mathrm{x}=10
+\mathrm{z}
+=5
+\mathrm{y}=5 \mathrm{x} / \mathrm{z}^{2}
+\mathrm{y}=\mathrm{kx} / \mathrm{z}^{2} \quad 2=10 \mathrm{k} / 5^{2}
+\mathrm{k}=2 \times 25 / 10=5
+\mathrm{y}=5 \mathrm{x} / \mathrm{z}^{2}
+\mathrm{y}
+\mathrm{x}
+\mathrm{Z}^{2}
+\mathrm{y}=4
+\mathrm{x}=3
+\mathrm{z}=2
+y=\frac{3 z^{2}}{x}
+\mathrm{y}=\mathrm{kz} / \mathrm{x}, \quad 4=\mathrm{k} 2 / 3,4=4 \mathrm{k} / 3
+\mathrm{k}=3
+
+y=3 x^{2}
+
+\mathbf{F}
+\mathbf{T}
+\mathbf{T}[+1,0,-1]
+y=x,(x, y) \rightarrow(\mathrm{y}, \mathrm{x})
+\mathbf{T}
+\mathbf{F}
+\mathrm{CH}_{2} \mathrm{O}
+\mathrm{CH}_{3} \mathrm{OH}:-2
+\mathrm{CaCO}_{3}
+\mathrm{CaSO}_{4} .2 \mathrm{H}_{2} \mathrm{O}
+\operatorname{Sin}\left(90^{\circ}-A\right)=-\sin A
+\mathbf{F}\left[\sin \left(90^{\circ}-\mathrm{A}\right)=\cos \mathrm{A}\right]
+\mathbf{F}
+\mathbf{T}
+\mathbf{T}
+\mathrm{Cl}_{2}
+\mathrm{NaCl}
+\mathrm{MgCl}_{2}
+\mathbf{F}\left[1 \mathrm{~mol} \mathrm{Cl}_{2}: 2 \mathrm{~F} \quad 1 \mathrm{~mol} \mathrm{Mg}: 2 \mathrm{~F}\right]
+f(x)
+f(-x)=f(x)
+\mathbf{F}[\mathrm{f}(-\mathrm{x})=-\mathrm{f}(\mathrm{x})]
+[\mathrm{P} \Rightarrow \mathrm{Q}
+\mathrm{P}
+]
+\mathrm{P}
+\mathrm{Q}
+\mathrm{P}, \mathrm{Q}
+=
+x
+3 \mathrm{x}-2 \mathrm{y}=10
+\mathrm{A}(1,-2)
+y=\frac{3 x}{2}-\frac{7}{2}
+(y+2)=\frac{3}{2}(x-1)
+2 y=3 x-7
+\mathrm{m}=\frac{3}{2}\left(y=\frac{3 x}{2}-5\right)
+\therefore
+(y+2)=\frac{3}{2}(x-1) \quad
+\quad y=\frac{3 x}{2}-\frac{7}{2}
+x+2 y=1
+\mathrm{B}(2,1)
+\mathrm{y}=2 \mathrm{x}-3
+(\mathrm{y}-1)=2(\mathrm{x}-2)
+x+2 y=1
+m=-\frac{1}{2}
+\therefore
+(\mathrm{y}-1)=2(\mathrm{x}-2)
+\mathrm{y}=2 \mathrm{x}-3
+\mathrm{x}
+\frac{X-2}{X+1}
+1-\frac{3}{x+1}
+\frac{X-2}{X+1}=\frac{(X+1)-3}{X+1}=\frac{X+1}{X+1}-\frac{3}{X+1}=1-\frac{3}{X+1}
+\frac{x-2}{x+1} \frac{2 X+1}{X-1}
+2+\frac{3}{x-1}
+\frac{2 X+2}{X-1}=\frac{2(X-1)+3}{X-1}=\frac{2(X-1)}{X-1}-\frac{3}{X-1}=2+\frac{3}{X-1}
+\mathrm{NH}_{3}
+\mathrm{CO}
+\mathrm{SO}_{2}
+\mathrm{H}_{2} \mathrm{~S}
+5 \times 10^{3}
+\mathrm{T}
+10 \mathrm{~A}
+1 \mathrm{~cm}
+1 \mathrm{~m}
+=4 \pi \times 10-\mathrm{Tm} / \mathrm{A}
+
+\begin{aligned}
+& \mathrm{B}=\mu \mu{ }_{\mathrm{O} \mathrm{nI}} \\
+& N=\frac{5 \times 10^{-3}}{40 \pi \times 10^{-7} x 10} \text { turns } / m
+\end{aligned}
+
+
+For a length of 
+, we just have
+
+
+N=\frac{5 \times 10^{-3}}{40 \pi x 10^{-7}} \text { turns }
+
+
+Now, every turn of the coil has a length equal to the circumference of a circle: 
+, which is also just the length of wire needed for the turn. So the total length 
+ of wire required will be
+
+
+\mathrm{L}=\mathrm{N} \times 2 \pi_{\mathrm{r}}
+
+
+
+
+\begin{aligned}
+\mathrm{L} & =\frac{5 \times 10^{-3}}{4^{0 \pi 0 \pi}} \times 2^{\pi \pi} \times 10^{-7} \\
+L & =\frac{5 \times 10^{-2}}{2^{00}} \times 10^{-7} \\
+L & =25 \mathrm{~m}
+\end{aligned}
+
+\mathbf{F}
+\mathrm{Q}
+\mathrm{P}
+\mathrm{Q}
+\mathbf{F}
+\mathbf{F}
+\mathrm{Hg}^{2} \mid \mathrm{Hg}
+\mathrm{Ag} \mid \mathrm{Ag}
+\mathrm{Hg}^{2+}
+\mathrm{Ag}^{+}
+\mathbf{T}
+\mathrm{Hg}^{2+}+2 \mathrm{e}
+0.85 \mathrm{v}
+0.80 \mathrm{~V}
+\mathrm{Ag}^{+}
+\mathrm{Pb}^{2} \mid \mathrm{Pb}
+\mathrm{Cr}^{3} \mid \mathrm{Cr}
+\mathrm{Pb}
+\mathrm{a}
+\mathbf{F}\left[\mathrm{Pb} \rightarrow \mathrm{Pb}^{2}+2 \mathrm{e}\right.
++0.1 \mathrm{~V}
+\left.\mathrm{Cr} \rightarrow \mathrm{Cr}^{3}+3 \mathrm{e},+0.7 \mathrm{~V}\right]
+\mathbf{T}
+\mathbf{F}
+10^{\circ} \mathrm{C}
+\mathbf{T}
+\mathbf{T}
+25 \mathrm{x}^{2}-49 \mathrm{y}^{2}=(5 \mathrm{x}-7 \mathrm{y})(5 \mathrm{x}+7 \mathrm{y})
+\mathbf{T}
+\mathbf{F}
+
+\mathbf{F}\left[t / 2=\frac{1}{k[A]_{0}}\right]
+
+\mathbf{F}
+\alpha
+\beta
+235_{\text {eight }}
+157_{\text {ten }}
+235_{\text {eight }}=2(8) 2+3(8) 1+5=128+24+5=157_{\text {ten }}
+1024_{eight}
+66 \mathrm{R} 4
+8 \mathrm{R} 2
+1 \mathrm{R} 0
+\left(\mathrm{C}_{4} \mathrm{H}_{10}\right)
+\left(\mathrm{C}_{5} \mathrm{H}_{12}\right)
+\mathrm{CH}_{2}
+\mathrm{CH}_{3} \mathrm{CH}_{2} \mathrm{CH}_{2}-\mathrm{OH}
+\mathrm{CH}_{3} \mathrm{CH}_{2} \mathrm{CH}_{2} \mathrm{CH}_{2} \mathrm{CH}_{2}-\mathrm{OH}
+\mathrm{CH}_{2} \mathrm{CH}_{2}
+=\mathbf{2 8}
+80 \%
+1 \%
+-7,-2,3,8 \ldots
+(\mathbf{5 n - 1 2 )}
+a=-7
+\mathrm{d}=5
+\mathrm{n}^{\text {th }}
+=\mathrm{a}+(\mathrm{n}-1) \mathrm{d}=-7+5(\mathrm{n}-1)=5 \mathrm{n}-12
+8,1,-6,-13 \ldots
+(\mathbf{1 5}-\mathbf{7 n})
+\mathrm{a}=8
+\mathrm{d}=-7
+
+\mathrm{n}^{\text {th }} \text { term }=\mathrm{a}+(\mathrm{n}-1) \mathrm{d}=8+(-7)(\mathrm{n}-1)=15-7 \mathrm{n}
+
+20 \%
+\mathrm{GHc} \quad \mathrm{x}
+80 \% x=20,000
+\mathrm{x}=(100 / 80) 20,000
+=(5 / 4) 20,000
+=25,000
+25 \%
+C(5 / 4)=55
+C=55 \times 4 / 5=11 \times 4=44
+\boldsymbol{R}
+\boldsymbol{V}
+\boldsymbol{R}
+\boldsymbol{R}
+\boldsymbol{R}
+R
+\boldsymbol{R}
+\boldsymbol{V}
+\mathrm{CO}_{2}
+\mathrm{CO}_{2}
+\mathrm{CO} 2
+40 \%
+30 \%
+x
+(x+30) 30 \%=(30) 40 \%
+3(x+30)=4(30)
+3 x=30
+x=10
+30 \%
+50 \%
+\mathrm{x}
+(x+20(0.3))=(0.5)(x+20), x+6=1 / 2 x+10,1 / 2 x=4, x=8
+10 \mathrm{~g}
+2 \mathrm{~g}
+2 \mathrm{~g}
+200^{\circ} \mathrm{C}
+10 \mathrm{~g}
+32^{\circ} \mathrm{C}
+10 \mathrm{~g}
+2 \mathrm{~g}
+2 \mathrm{~g}
+10 \mathrm{~g}
+200 \mathrm{~g}
+150^{\circ} \mathrm{C}
+25 \mathrm{~g}
+175 \mathrm{~g}
+175 \mathrm{~g}
+25 \mathrm{~g}
+\mathrm{Fe}_{2} \mathrm{O}_{3}
+\mathrm{Fe}_{3} \mathrm{O}_{4}
+98 \mathrm{~g}
+40 \mathrm{dm}^{3}
+27^{\circ} \mathrm{C}
+\left[\right.
+\left.\mathrm{R}=8.3 \mathrm{JK}^{-1} \mathrm{~mol}^{-1}, \mathrm{~N}: 14\right]
+=40 \mathrm{dm}^{3}=40 \times 10^{-3} \mathrm{~m}^{3}
+\mathrm{N}_{2} \quad=28 \mathrm{~g}
+98 \mathrm{~g} \mathrm{~N}_{2}
+
+=\frac{98}{28}=3.5 \mathrm{~mol}
+
+
+Temperature, 
+
+Using 
+
+
+
+\begin{aligned}
+& P\left(40 \times 10^{-3}\right)=3.5 \times 8.3 \times 300 \\
+& \therefore P=\frac{3.5 \times 8.3 \times 300}{40 \times 10^{-3}}=217.9 \times 10^{3} \mathrm{~Pa} \\
+& P=217.9 \mathrm{kPa}
+\end{aligned}
+
+\mathbf{T}
+\Delta H
+\mathbf{T}
+0^{\circ} \mathrm{C}
+\mathbf{T}
+\mathbf{F}
+\mathbf{T}
+\mathbf{T}
+T
+\mathbf{T}
+\mathbf{T}
+(2,1)
+(-4,1)
+\mathbf{F}
+\mathbf{F}
+\mathrm{T}
+\mathbf{T}
+\mathbf{T}
+\left[x^{3}+\left(-x^{3}\right)=0\right]
+119^{\circ} \mathrm{C}
+\mathrm{CCl}_{4}
+\mathrm{C}_{7} \mathrm{H}_{14} \quad
+45^{\circ}, \mathrm{I}
+(\mathrm{Cu})
+\mathrm{GHS} 350
+30 \%
+\mathrm{x}
+
+0.7 x=350, \text { hence } x=(350) .(10 / 7)=500
+
+15 \%
+\mathrm{GHS} \ 17,000
+\mathrm{GHS} \mathrm{x}
+
+0.85 x=17,000, \text { hence } x=17,000.9100 / 85)=20,000
+
+\frac{1}{2} x-\frac{2}{3}<\frac{5}{6}
+x<3
+\frac{1}{2} x-\frac{2}{3}<\frac{5}{6}
+\frac{1}{2} x-\frac{2}{3}<\frac{5}{6} 3 x-4<5
+3 \boldsymbol{x}<9
+\boldsymbol{x}<3
+\frac{3}{5} x+\frac{7}{10}>\frac{1}{2}
+x>-\frac{1}{3}
+\frac{3}{5} x+\frac{7}{10}>\frac{1}{2}
+6 \mathbf{x}+7>5
+)
+6 x>-2
+x>-1 / 3
+4.4 \times 10^{13}
+25 \%
+10 \%
+\mathrm{GH} \phi \mathrm{y}
+
+\frac{125}{100} y \frac{90}{100} \frac{125}{100} y \frac{90}{100}=18 \text { hence } y=\frac{100}{125} x \frac{100}{90} x 18=16
+
+20 \%
+20 \%
+\frac{120}{100} x \frac{80}{100} x 100=12 x 8=96
+\mathrm{Zn}^{2+}
+\mathrm{Pb}^{2+}
+\mathrm{Cu}^{2+}
+\mathrm{Fe}^{2+}
+\mathrm{x}
+\mathrm{y}
+
+\begin{aligned}
+& x+y=200,5 x+3 y=760, y=200-x \\
+& 5 x+3(200-x)=760,2 x+600=760,2 x=160, \text { hence } x=80, y=120
+\end{aligned}
+
+\mathrm{GHS}  5
+x
+y
+X+y=1,000,10 x+5 y=6,500, y=1,000-x
+10 x+5(1000-x)=6,500,5 x+5000=6500
+5 x=6500-5000=1500
+x=300
+y=700
+(x-2)
+(x+3)
+f(x)=x^{4}+x^{3}-5 x^{2}+a x+b
+a
+b
+
+\begin{aligned}
+& f(x)=x^{4}+x^{3}-5 x^{2}+a x+b \\
+&(x-2) \text { factor } \Rightarrow 16+8-20+2 a+b=0 \\
+& \text { i.e. } 2 a+b=-4 \quad \text { (i) } \\
+&(x+3) \text { factor } \Rightarrow 81-27-45-3 a+b=0 \\
+& \text { i.e. } 3 a-b=9 \quad \text { (ii) }
+\end{aligned}
+
+
+From (i) and (ii), 
+
+
+
+
+
+
+
+\begin{aligned}
+& \sqrt{\frac{x^{4}+x^{3}-5 x^{2}+x-6}{x^{4}+x^{3}-6 x^{2}}} \\
+& \overline{x^{2}+x-6} \\
+& x^{2}+x-6 \\
+& \therefore \mid f(x)=(x-2)(x+3)\left(x^{2}+1\right)
+\end{aligned}
+
+\mathbf{F}
+\mathbf{F}
+\mathbf{T}
+\mathbf{F}
+\mathbf{F}
+\mathbf{F}
+\mathrm{N}_{2} \mathrm{O}
+\mathbf{T}
+\cos \mathrm{x}=2
+\mathbf{T}
+\mathbf{T}
+|x|=-3
+|x|
+x
+\mathbf{T}
+<
+<
+152 \mathrm{~kJ} \mathrm{~mol}^{-1}
+152 \mathrm{~kJ} \mathrm{~mol}^{-1}
+=5
+4 \times 3 \times 2 \times 1=120
+5 \times 4 \times 3
+
+\left(5 P_{3}\right)=\frac{5 !}{2 !}=5 \times 4 \times 3=60
+
+11001_{2}
+11001_{2}=1 \times 2^{4}+1+2^{3}+1=16+8+1=25
+101110_{2}
+101110_{2}=1 \times 2^{5}+1 \times 2^{3}+1 \times 2^{2}+1 \times 2^{1}=32+8+4+2=46
+11 \mathrm{~km} / \mathrm{s}
+\mathrm{NaHCO}_{3}
+\mathrm{NaOH}
+\mathrm{I}_{2}
+15 \mathrm{~cm}
+16 \mathrm{~cm}
+120 \mathrm{~cm}^{2}
+=1 / 2
+=1 / 2 \times 16 \times 15=8 \times 15=120 \mathrm{~cm}^{2}
+20 \mathrm{~cm}
+14 \mathrm{~cm}
+140 \mathrm{~cm}^{2}
+=1 / 2 \times 20 \times 14=140 \mathrm{~cm}^{2}
+\quad
+x+y=15
+2 x+3 y=40
+
+2 x+2 y=30 \text {, hence } y=10 \text { and } x=5
+
+y
+
+3 x+3 y=21, \text { and } 2 x+y=9
+
+
+Solving simultaneously, 
+, and 
+\mathrm{X}
+\mathrm{NaHCO}_{3}
+\mathrm{Na}_{2} \mathrm{CO}_{3} .25 .0 \mathrm{~cm}^{3}
+14.0 \mathrm{~cm}^{3}
+0.10 \mathrm{~mol} \mathrm{dm}^{-3} \mathrm{HCl}
+25.0 \mathrm{~cm}^{3}
+36 \mathrm{~cm}^{3}
+\mathrm{HCl}
+\mathrm{Na}_{2} \mathrm{CO}_{3}
+\mathrm{NaHCO}_{3}
+\mathrm{X}
+\mathrm{Na}_{2} \mathrm{CO}_{3}
+Na_{2}CO_{3} + HCl \rightarrow NaHCO_{3} + NaCl
+\mathrm{Na}_{2} \mathrm{CO}_{3}
+0.056 \mathrm{~mol} \mathrm{dm} \mathrm{dm}^{-3}
+\begin{array}{lll}\mathrm{Na}_{2} \mathrm{CO}_{3}+2 \mathrm{HCl} & \rightarrow & 2 \mathrm{NaCl}+\mathrm{CO}_{2}+\mathrm{H}_{2} \mathrm{O} \\ \mathrm{NaHCO}_{3}+\mathrm{HCl} & \rightarrow \mathrm{NaCl}+\mathrm{CO}_{2}+\mathrm{H}_{2} \mathrm{O}\end{array}
+\mathrm{Na}_{2} \mathrm{CO}_{3}
+\left(2 \times 14.0 \mathrm{~cm}^{3}=28 \mathrm{~cm}^{3}\right)
+\mathrm{NaHCO}_{3}
+36-28=8 \mathrm{~cm}^{3}
+\mathrm{NaHCO}_{3}
+\frac{8 \times 0.10}{25 \times N}=\frac{1}{1} \Rightarrow N=0.032
+^{-3}
+\mathbf{T}
+\mathbf{T}
+120^{\circ}
+\mathbf{T}
+1^{\text {st }}
+\mathbf{T}
+\mathbf{T}
+\mathrm{N}
+\mathbf{T}
+\mathbf{F}
+\mathbf{T}
+\mathbf{T}
+\mathbf{F}
+\mathrm{y}=4-\mathrm{x}^{2}
+\mathbf{F}
+U_{n}=2 U_{n-1}-4, U_{1}=3
+U_{1}=3, U_{2}=2, U_{3}=0, U_{4}=-4
+\mathrm{U}_{2}=2 \mathrm{U}_{1}-4=2 \times 3-4=2, \mathrm{U}_{3}=2 \mathrm{U}_{2}-4=2 \times 2-4=0
+U_{4}=2 U_{3}-4=2 \times 0-4=-4
+\mathrm{U}_{\mathrm{n}}=2 \mathrm{U}_{n-1}+4, \mathrm{U}_{1}=3
+\mathrm{U}_{1}=3, \mathrm{U}_{2}=10, \mathrm{U}_{3}=24, \mathrm{U}_{4}=52
+A
+B
+5+4 \mathrm{x}-\mathrm{x}^{2} \equiv \mathrm{A}-(\mathrm{x}-\mathrm{B})^{2}
+\mathrm{A}=9, \quad \mathrm{~B}=2
+5+4 \mathrm{x}-\mathrm{x}^{2}=5-\left(\mathrm{x}^{2}-4 \mathrm{x}\right)=5-\left[(\mathrm{x}-2)^{2}-4\right]=9-(\mathrm{x}-2)^{2}
+\therefore \mid A=9, \quad B=2
+\equiv \mathrm{A}-(\mathrm{x}-\mathrm{B})^{2}
+A
+B
+\mathrm{x}^{2}+8 \mathrm{x}+10=\mathrm{A}+(\mathrm{x}+\mathrm{B})^{2}
+\mathrm{A}=-6, \quad \mathrm{~B}=4
+\mathrm{x}^{2}+8 \mathrm{x}+10=\left(\mathrm{x}^{2}+8 \mathrm{x}\right)+10
+
+\begin{aligned}
+& =(x+4)^{2}-16+10 \\
+& =(x+4)^{2}-6 \\
+& \therefore A=-6, B=4
+\end{aligned}
+
+{\frac{7}{15}}
+\left[P(W W)+P(B B)=\frac{4}{10} x \frac{3}{9}+\frac{6}{10} x \frac{5}{9}=\frac{12+30}{90}=\frac{42}{90}=\frac{7}{15}\right]
+{\frac{12}{25}}
+\left[P(W B)+P(B W)=\frac{4}{10} \times \frac{6}{10}+\frac{6}{10} x \frac{4}{10}=\frac{24+24}{100}=\frac{48}{100}=\frac{12}{25}\right]
+50 \mathrm{~km} / \mathrm{h}
+50 \mathrm{~km} / \mathrm{h}
+\mathrm{PQRS}
+\mathrm{P}(1,0), \mathrm{Q}(2,0)
+\mathrm{R}(2,3)
+\mathrm{S}
+\mathrm{S}(1,3)
+\mathrm{ABCD}
+\mathrm{A}(-3,-3), \mathrm{B}(5,-3)
+\mathrm{C}(5,5)
+\mathrm{D}(-3,5)
+\rightarrow
+\rightarrow
+\mathrm{GHS}  22
+\mathrm{GHS} 114
+20,22,24, \ldots .114
+=20
+\mathrm{d}=2
+n
+\mathrm{U}_{\mathrm{n}}=20+(\mathrm{n}-1)(2)=114
+2 \mathrm{n}+18=114
+2 \mathrm{n}=114-18=96
+\underline{\mathrm{n}=48}
+\mathrm{GHS}  22
+\mathrm{GHS} 114
+
+\begin{aligned}
+S_{n} & =n \frac{\left(U_{1}+U_{n}\right)}{2} \\
+& =\frac{48(20+114)}{2} \\
+& =\frac{48 x 134}{2} \\
+& =\frac{6432}{2} \\
+& =3216
+\end{aligned}
+
+
+The total amount repaid is 
+\mathbf{F}
+\mathbf{T}
+\mathbf{T}
+\mathrm{P}
+\mathrm{Q}
+\mathrm{P}
+\mathrm{Q}
+\mathbf{T}
+\mathbf{F}
+-2,-1
+-1 / 2
+\mathbf{T}
+(-2)
+(-1)
+(-1 / 2)
+\mathrm{K}_{2} \mathrm{O}
+\mathbf{T}
+\mathbf{T}
+\mathbf{T}
+\mathbf{F}
+1 / 2
+\mathrm{H}_{2} \mathrm{PO}_{4}
+\mathrm{HPO}_{4}^{2}
+\mathbf{T}
+\mathbf{F}
+\mathbf{T}
+x
+(1+2 x)^{3}
+1+6 \mathrm{x}+12 \mathrm{x}^{2}+8 \mathrm{x}^{3}
+(1+2 \mathrm{x})^{3}=1+3(2 \mathrm{x})+3(2 \mathrm{x})^{2}+(2 \mathrm{x})^{3}
+=1+6 \mathrm{x}+12 \mathrm{x}^{2}+8 \mathrm{x}^{3}
+x
+(1-x)^{4}
+\quad 1-4 \mathrm{x}+6 \mathrm{x}^{2}-4 \mathrm{x}^{3}+\mathrm{x}^{4}
+(1-x)^{4}=1+4(-x)+6(-x)^{2}+4(-x)^{3}+(-x)^{4}
+=1-4 x+6 x^{2}-4 x^{3}+x^{4}
+\mathrm{H}
+\sqrt{6.25}=2.5
+\sqrt{0.000625}
+2.5 \times 10^{2}
+\sqrt{0.000625}=\sqrt{6.25} \times \sqrt{10^{-4}}
+\sqrt{0.000625}=2.5 \times 10^{2}
+\sqrt{1.44}=1.2
+\sqrt{14400}
+\sqrt{14400}=\sqrt{1.44} \times \sqrt{10^{4}}=1.2 \times 10^{2}=120
+\left.(4 n+2) \Pi\right|_{\text {electrons }}
+\mathrm{Fe}^{3+}
+^{3+}
+18 \mathrm{~km} / \mathrm{hr}
+18 \mathrm{~km} / \mathrm{hr}=(18,000 / 3600) \mathrm{m} / \mathrm{s}=5 \mathrm{~m} / \mathrm{s}
+300 / 5=60
+72 \mathrm{~km} / \mathrm{hr}
+72 \mathrm{~km} / \mathrm{hr}=(72,000 / 3600) \mathrm{m} / \mathrm{s}=20 \mathrm{~m} / \mathrm{s}
+20 \times 10=200 \mathrm{~m}
+A
+B
+P(A)=3 / 4
+P(A \cap B)=1 / 2
+P(B)
+\quad 2 / 3
+\quad
+\mathrm{A}
+\mathrm{B}
+\mathrm{P}\left(A\cap \mathrm{B}\right)=\mathrm{P}(\mathrm{A}) \mathrm{P}(\mathrm{B})
+
+\text { Hence } \mathrm{P}(\mathrm{B})=\mathrm{P}(\mathrm{A} \cap \mathrm{B}) / \mathrm{P}(\mathrm{A})=1 / 2 \times 4 / 3=2 / 3
+
+A
+B
+P(A)=1 / 2
+P(B)=1 / 4
+\quad P(A \cup B)
+\quad 3 / 4
+\quad \mathrm{P}(\mathrm{A} \cup \mathrm{B})=\mathrm{P}(\mathrm{A})+\mathrm{P}(\mathrm{B})=1 / 2+1 / 4=3 / 4
+\mathrm{A}
+\mathrm{B}
+\mathrm{H}_{3} \mathrm{O}
+\mathrm{C}
+\mathrm{mol} \mathrm{dm}^{3}
+\mathrm{mol} \mathrm{dm} \mathrm{s}^{-1}
+H_3O^{+}
+6.0 * 10^{-4}
+2.4 * 10^{-3}
+1.8 * 10^{-3}
+6.0 * 10^{-4}
+\mathrm{k}
+=\mathrm{k}[\mathrm{A}] \times[\mathrm{B}]\left[\mathrm{H}_{3} \mathrm{O}^{+}\right]_{2}
+\frac{\text { Rate } 2}{\text { Rate } 1} \frac{\text { Rate } 2}{\text { Rate } 1}=\frac{24}{6} \frac{24}{6}=\frac{[B[2]]^{y}}{[B[1]]^{y}} \frac{\left[B_{2}\right]^{y}}{\left[B_{1}\right]^{y}}=2^{y} 2^{y} \frac{\text { Rate } 4 \text { Rate } 4}{\text { Rate } 1 \text { Rate } 1}=\frac{6}{6} \frac{6}{6}
+=\frac{\left[\mathrm{H}_{3} \mathrm{O}^{+}\right] 4^{z}}{\left[\mathrm{H}_{3} \mathrm{O}^{+}\right] 1^{z}} \frac{\left[H_{3} \mathrm{O}^{+}\right]^{4 z}}{\left[H_{3} \mathrm{O}^{+}\right]^{1 z}}=2^{z} 2^{z}
+4=2^{y} \Rightarrow \Rightarrow y=2
+1=2^{2} \Rightarrow \Rightarrow \mathrm{z}=0
+\frac{\text { Rate3 }}{\text { Rate } 1 \text { Rate3 }} \frac{18}{\text { Rate } 1}=\frac{18}{6} \frac{\left[A_{3}\right]^{x}}{\left[A_{1}\right]^{x}} \frac{[A[3]]^{x}}{[A[1]]^{x}}=3^{*} 3^{y x}
+3=3^{x} \Rightarrow \Rightarrow x=1
+\quad
+=\mathrm{k}[\mathrm{A}]_{[}[\mathrm{B}]^{2}\left[\mathrm{H}_{3} \mathrm{O}\right]^{\circ}
+6.0 \times 10^{4}=\mathrm{k}[0.02][0.02]^{2}=\mathrm{k} \times 8 \times 10^{-6} \Rightarrow \Rightarrow \underline{\mathrm{k}=75}
+\mathrm{s}^{-1}
+^{-2}=\underline{\mathrm{dm}^{6} \mathrm{~mol}^{-2} \mathrm{~s}^{-1}}
+\mathbf{F}
+\mathrm{x}
+0^{\circ}<\mathrm{x}<90^{\circ}, \sin \mathrm{x}
+\mathbf{F}
+\mathbf{F}
+-\Delta
+\mathbf{T}
+\mathbf{T}
+\log _{3} X^{n}=n \log _{3} \mathrm{X}
+\mathrm{T}
+\mathbf{F}
+\mathrm{OH}
+\mathbf{F}[\mathrm{R} \rightarrow \mathrm{OH}
+\mathrm{R}]
+\mathbf{T}
+\mathbf{T}
+(a+b)^{3}=a^{3}+3 a^{2} b+3 a b^{2}+b^{3}
+\mathrm{T}
+x
+x>5
+\mathbf{T}
+\rightarrow
+\rightarrow
+\rightarrow \mathrm{H}_{2} \mathrm{O} / \mathrm{H}^{+}
+\mathbf{T}
+\mathbf{T}
+\left(\mathrm{CaCO}_{3}\right)
+\mathrm{HCO}_{\overline{3}}
+\mathrm{Ca}^{+}
+\mathrm{Mg}^{+}
+3,8,15,24 \ldots
+3,8,15,24,35,48
+5 \quad 7 \quad 9 \quad 11 \quad 13
+3,4,8,17 \ldots
+3,4,8,17,33,58
+1 \quad 4 \quad 9 \quad 16 \quad 25
+
+1^{2} \quad 2^{2} 3^{2} \quad 4^{2} \quad 5^{2}
+
+\mathrm{L}=\mathrm{nh} / 2 \pi \quad \mathrm{n}=1,2,3 \ldots
+y
+3 x-y=5
+y=-\frac{1}{3} x+5
+3 y=-x+15
+3 x-y=5
+m=3
+-\frac{1}{3} \frac{1}{3}
+y=-\frac{1}{3} x+5
+x
+x+2 y=3
+\underline{x+2 y=-3} \quad y=-\frac{1}{2}(x+3)
+y=\frac{-x}{2}-\frac{3}{2}
+x+2 y=3
+-\frac{1}{2}
+x+2 y=-3
+\mathrm{X}^{4}-1
+(\mathrm{x}-1)(\mathrm{x}+1)\left(\mathrm{x}^{2}+1\right)
+\mathrm{x}^{4}-1=\left(\mathrm{x}^{2}\right)^{2}-1=\left(\mathrm{x}^{2}-1\right)\left(\mathrm{x}^{2}+1\right)=(\mathrm{x}-1)\left(\mathrm{x}-1)\left(\mathrm{x}^{2}+1\right)\right.
+3 x-3 x^{3} y^{2}
+3 x(1-x y)(1+x y)
+3 x-3 x^{3} y^{2}=3 x\left(x^{2} y^{2}-1\right)=3 x(x y-1)(x y+1)
+=190 \mathrm{~m}
+=110 \mathrm{~m}
++\mathrm{W})=600
+\mathrm{L}-\mathrm{W}=80
+\mathrm{L}
+\mathrm{W}
+
+\mathrm{L}+\mathrm{W}=300
+
+
+
+ and 
+=140 \mathrm{~m}
+=70 \mathrm{~m}
+2(\mathrm{~L}+\mathrm{W})=420
+\mathrm{L}=2 \mathrm{~W}
+2(3 \mathrm{~W})=420 \quad(
+\mathrm{L}=2 \mathrm{~W})
+
+\mathrm{W}=70 \text { and } \mathrm{L}=140
+
+\mathrm{X}
+\mathrm{X}_1, \mathrm{X}_2, \mathrm{X}_3
+\mathrm{X}_4
+\mathrm{X}_1, \mathrm{X}_2
+\mathrm{X}_4
+35 \%, 20 \%
+30 \%
+\mathrm{X} 3
+X_1
+X_2
+X_3
+X_4
+\mathrm{X} 3=100-(35+30+20)
+
+\begin{aligned}
+& =100-85 \\
+& =15 \%
+\end{aligned}
+
+
+ii. 
+
+
+
+=26.6+15.6+24.3+0.15 \mathrm{M}
+
+
+=66.5+0.15 \mathrm{M}
+
+
+
+
+
+\mathbf{T}
+\mathbf{T}
+(\mathrm{a}+\mathrm{x})^{n}
+(\mathrm{n}+1)
+\mathrm{n}
+\mathbf{F}
+\mathbf{T}
+\mathbf{T}
+\mathbf{F}
+(a+x)^{n}
+{ }^{n} C_{r}
+\mathbf{F}
+\mathrm{n}
+\mathrm{NH}_{3}
+\mathrm{pH}
+9 x^{2}-42 x+49
+(3 \mathrm{x}-7)
+9 x^{2}-42 x+49=9 x^{2}-21 x-21 x+49
+=3 x(3 x-7)-7(3 x-7)
+=(3 x-7)(3 x-7)
+=(3 x-7)^{2}
+25 \mathrm{x}^{2}+20 \mathrm{x}+4
+(5 \mathrm{x}+2)^{2}
+25 \mathrm{x}^{2}+20 \mathrm{x}+4=25 \mathrm{x}^{2}+10 \mathrm{x}+10 \mathrm{x}+4
+
+\begin{aligned}
+& =5 x(5 x+2)+2(5 x+2) \\
+& =(5 x+2)(5 x+2)
+\end{aligned}
+
+\mathrm{Cu}^{2+}
+\mathrm{Cu}^{2+}
+\mathrm{Cu}^{2+}
+\mathrm{Cu}
+\mathrm{Cu}^{2+}
+\mathrm{C}_{\mathrm{v}}
+\mathrm{C}_{p}
+3^{\text {nd }}
+5^{\text {t }}
+U n=2 n+1
+
+\left[\begin{array}{c}
+\mathbf{a}+\mathbf{2} \mathbf{d}=7 \\
+\mathbf{a}+\mathbf{4 d}=\mathbf{1 1}
+\end{array}\right] \Rightarrow 2 d=4 \Rightarrow d=2 \text { and } a=3
+
+=5(-2)^{n-1}
+
+\begin{aligned}
+& {\left[\begin{array}{l}
+a=5 \\
+a r^{3}=-40 \therefore 5 r^{3}=-40 \Rightarrow r^{3}=-8 \Rightarrow r=-2
+\end{array}\right]} \\
+& \therefore U n=5(-2)^{n-1}
+\end{aligned}
+
+2^{6}=64
+13.5 \pm \mid 0.05
+9.7 \pm\left.\right|_{0.05}
+13.55+9.75=23.3
+13.5 \pm\left.\right|_{0.05}
+9.7 \pm \mid 0.05
+13.45+9.65=23.1
+\mathrm{CO}_{2}
+\mathrm{CO}_{2}
+\mathrm{A}^{+}
+\mathrm{B}^{+}
+\mathrm{H}_{2} \mathrm{~S}
+\mathrm{A}^{+}
+\mathrm{H}_{2} \mathrm{~S}
+\mathrm{B}^{+}
+\mathrm{A}^{+}
+\mathrm{B}^{+}
+\mathrm{H}^{+}
+\mathrm{H}_{2} \mathrm{~S}
+\mathrm{S}^{2-}
+\mathrm{S}^{2-}
+\mathrm{d} \alpha_{\mathrm{m}}
+2 x+30^{\circ}, x+50^{\circ}, 3 x-50^{\circ}
+x
+x=25^{\circ}
+2 x+30^{\circ}+x+50^{\circ}+3 x-50^{\circ}=6 x+30^{\circ}=180^{\circ}
+
+\therefore \mid 6 x=150^{\circ} \Rightarrow x=25^{\circ}
+
+2 x, 4 x, 5 x
+7 x
+x
+x=20
+2 x+4 x+5 x+7 x=18 x=360^{\circ}
+
+\therefore \mid x=20^{\circ}
+
+300 \mathrm{~nm}
+4.0 \mathrm{x} 10 \mathrm{~mm} / \mathrm{s}
+h=6.6 \times 10^{3} \mathrm{Js}
+c=3.0 \times 10^{8} \mathrm{~m} / \mathrm{s}
+=9 \times 10^{31} \mathrm{~kg}
+\mathrm{m}=
+
+\begin{aligned}
+& v=\text { velocity of electrons } \\
+& \mathrm{f}=\text { frequency of incident light } \\
+& \mathrm{f}_{\mathrm{o}}=\text { threshold frequency } \\
+& \lambda=\text { wavelength of incident light }
+\end{aligned}
+
+
+Writing the photoelectric equation
+K.E. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\mathrm{PC1}_{3}
+\mathrm{CC1}_{4}
+\quad\left[\mathrm{P}: \mathrm{sp}^{3}\right.
+\left.\mathrm{C}: \mathrm{sp}^{3}\right]
+\mathbf{F}
+\mathbf{T}
+\mathbf{T}
+\mathbf{T}
+\mathrm{SO}_{2}
+\mathrm{CC1}_{4}
+\mathrm{SO}_{2}
+\mathrm{CC}_{4}
+\mathbf{T}
+\mathrm{SO}_{2}
+\mathbf{T}
+\mathbf{T}
+\mathbf{T}
+6.032 \times 10^{23}
+\mathbf{F}
+\mathbf{T}
